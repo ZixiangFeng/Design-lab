@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: trust-personal-ai-lab
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
