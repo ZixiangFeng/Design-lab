@@ -3584,5 +3584,34 @@ window.RESEARCH_CENTER = {
       1672,
       941
     ]
-  }
+  },
+  "news": [
+    {
+      "category": "论文接收",
+      "year": "2026",
+      "title": "家庭教育对话式 AI 研究获 ICHMI 2026 接收",
+      "summary": "从家庭生态视角梳理教育对话式 AI 的互动障碍，关注个性化学习、家校协作与资源差异。",
+      "projectId": "family-cai-education",
+      "venue": "ICHMI 2026",
+      "isExample": true
+    },
+    {
+      "category": "论文发表",
+      "year": "2026",
+      "title": "车载语音指令长度研究正式发表",
+      "summary": "基于 57 人模拟驾驶实验，比较不同长度语音指令，分析任务完成时间、空间能力与主观负荷。",
+      "projectId": "project-05",
+      "venue": "Transportation Research Part F",
+      "isExample": true
+    },
+    {
+      "category": "原型更新",
+      "year": "2026",
+      "title": "小屿：让个人表达进入持续陪伴",
+      "summary": "个人表情图库与沟通适应模型加入交互原型，探索通用表达、个人复用与视觉差异带来的体验。",
+      "projectId": "project-03",
+      "venue": "Ongoing Prototype",
+      "isExample": true
+    }
+  ]
 };

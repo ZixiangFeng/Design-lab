@@ -6,16 +6,16 @@
   let render;
   let restoring = false;
   let scrollFrame = 0;
-  const pageKey = hash => window.researchCenter.detailForHash(hash)?.id || (['', '#home', '#join'].includes(hash) ? 'home' : hash);
+  const pageKey = hash => window.researchCenter.detailForHash(hash)?.id || (['', '#home', '#join', '#lab-news', '#core-research'].includes(hash) ? 'home' : hash);
   const pageLabel = hash => window.researchCenter.detailForHash(hash)?.title || ({'#page-research':'研究方向','#page-projects':'研究与作品','#page-team':'研究团队','#page-publications':'学术成果'}[hash] || '首页');
   const readEntry = () => history.state?.[stateKey];
   const writeEntry = entry => history.replaceState({...history.state, [stateKey]:entry}, '', location.href);
 
   function savePosition(link) {
     if (!current || restoring || current.hash !== location.hash) return;
-    const card = link?.closest('.explore-card, .work-card, .direction-card, .focus-spotlight');
+    const card = link?.closest('.explore-card, .work-card, .direction-card, .focus-spotlight, .lab-news-card');
     const reference = card ? {
-      type: ['explore-card','work-card','direction-card','focus-spotlight'].find(c => card.classList.contains(c)),
+      type: ['explore-card','work-card','direction-card','focus-spotlight','lab-news-card'].find(c => card.classList.contains(c)),
       href: card.getAttribute('href'),
       top: card.getBoundingClientRect().top
     } : null;
@@ -53,7 +53,7 @@
       return;
     }
     const source = current;
-    const cardEntry = Boolean(link?.closest('.explore-card, .work-card, .direction-card, .focus-spotlight'));
+    const cardEntry = Boolean(link?.closest('.explore-card, .work-card, .direction-card, .focus-spotlight, .lab-news-card'));
     const origin = returning ? null : !cardEntry && pageKey(source.hash) === pageKey(canonical) ? source.origin : {
       id:source.id, index:source.index, hash:source.hash, label:pageLabel(source.hash)
     };
