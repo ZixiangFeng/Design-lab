@@ -11,7 +11,7 @@ window.RESEARCH_CENTER = {
       "status": "published",
       "statusText": "已发表",
       "period": "2026",
-      "summary": "围绕视觉、听觉与行为三个反馈通道，提炼六类交互变量，建立从感知、社会归因到信任判断的 IMO 模型，并提出可执行的验证路线。",
+      "summary": "从文献中提炼视觉、听觉和行为三个通道的六类反馈变量，建立从用户感知与解释到信任的IMO模型。产出包括可操作的变量、六项待检验假设和场景适配框架，实证验证仍待开展。",
       "lead": "虚拟智能体没有真实身体，却能通过表情、声音与回应节奏形成社会在场感。这项研究关注：如何把这些线索组织成可解释、可测量的反馈结构，让用户理解系统的回应并形成适当的信任。",
       "color": "#cfcbff",
       "meta": [
@@ -130,7 +130,8 @@ window.RESEARCH_CENTER = {
       "detailCover": "assets/research-center/ai/embodied.webp",
       "detailCoverAlt": "人机陪伴交互的结构化反馈设计策略 · AI 生成的主题场景",
       "topicId": "companion-design-strategy",
-      "topicTitle": "人机陪伴交互设计趋势洞察与策略研究"
+      "topicTitle": "人机陪伴交互设计趋势洞察与策略研究",
+      "cardSummary": "提炼三通道、六类反馈变量，建立从用户感知到信任的IMO模型，并提出待检验假设与场景适配框架。"
     },
     {
       "id": "project-01",
@@ -142,7 +143,7 @@ window.RESEARCH_CENTER = {
       "status": "manuscript",
       "statusText": "研究稿",
       "period": "2026",
-      "summary": "在414人的两个独立实验中，比较认知与情感共情、收益与损失框架，研究支持性聊天机器人的语言选择如何联系用户信任与感知回应性。",
+      "summary": "通过414人的两项随机实验比较共情表达与消息框架。情感共情在两个实验中均对应更高感知回应性，其中受伤方实验还出现更高整体信任。",
       "lead": "个性化陪伴需要理解用户怎样看待关怀、建议与回应。我们通过414人的两个独立实验，研究共情表达、消息框架和依恋差异如何联系用户对智能体的信任。",
       "cover": "assets/research-center/ai/trust-detail.webp",
       "coverAlt": "个性化陪伴中的情感沟通与信任 · AI 概念视觉",
@@ -309,7 +310,8 @@ window.RESEARCH_CENTER = {
         }
       ],
       "topicId": "voice-emotion-trust",
-      "topicTitle": "人智语音交互中的情感与信任研究"
+      "topicTitle": "人智语音交互中的情感与信任研究",
+      "cardSummary": "通过414人的双实验比较共情与消息框架；情感共情均对应更高回应性，受伤方实验还出现更高整体信任。"
     },
     {
       "id": "project-02",
@@ -321,7 +323,7 @@ window.RESEARCH_CENTER = {
       "status": "ongoing",
       "statusText": "综述与方案设计",
       "period": "2026",
-      "summary": "整合30项实证研究，梳理系统自适应与用户定制的信任路径，并据此组织语言、化身和支持任务的后续研究问题。",
+      "summary": "从四个数据库的854条记录中筛选30项实证研究，比较系统适应与用户定制的信任路径。综述显示，作用随任务、角色期待和用户解释变化，主观信任与实际依赖也可能不同步。",
       "lead": "个性化并不只意味着智能体更像用户。这个项目把已有文献中的设计变量、用户控制方式与信任证据放在一起，进一步界定哪些社会线索值得在具体任务中检验。",
       "cover": "assets/research-center/ai/human-personalized.webp",
       "meta": [
@@ -360,7 +362,7 @@ window.RESEARCH_CENTER = {
           "id": "stage-02",
           "title": "我们做了什么：系统检索与主题编码",
           "paragraphs": [
-            "依据PRISMA 2020组织检索、筛选和纳入流程，检索Web of Science、ACM Digital Library、IEEE Xplore和Scopus。纳入时间范围为2006年1月1日至2026年6月15日的英文期刊或会议实证论文。",
+            "依据PRISMA 2020组织检索、筛选和纳入流程，检索Web of Science、ACM Digital Library、IEEE Xplore和Scopus，检索截至2026年6月15日。最终纳入的英文期刊或会议实证论文发表于2006至2026年。",
             "初始检索获得854条记录，最终纳入30项研究。团队对研究情境、个性化因素、信任测量与主要发现进行主题编码，并使用VOSviewer整理关键词共现和时间趋势。"
           ],
           "takeaway": "从854条检索记录中最终纳入30项研究。",
@@ -368,11 +370,6 @@ window.RESEARCH_CENTER = {
             {
               "src": "assets/research-center/evidence/project-04-figure-2.webp",
               "caption": "从854条检索记录到30项纳入研究的筛选流程。",
-              "kind": "论文原图"
-            },
-            {
-              "src": "assets/research-center/evidence/project-04-figure-3.webp",
-              "caption": "纳入研究的发表时间分布，呈现该综述样本的趋势。",
               "kind": "论文原图"
             }
           ]
@@ -427,7 +424,8 @@ window.RESEARCH_CENTER = {
       "detailCover": "assets/research-center/ai/personalized-detail.webp",
       "detailCoverAlt": "人机陪伴交互的个性化趋势与设计策略 · AI 生成的主题场景",
       "topicId": "companion-design-strategy",
-      "topicTitle": "人机陪伴交互设计趋势洞察与策略研究"
+      "topicTitle": "人机陪伴交互设计趋势洞察与策略研究",
+      "cardSummary": "从854条记录筛选30项实证研究，比较系统适应与用户定制的信任路径，说明任务、角色和控制权如何影响设计。"
     },
     {
       "id": "project-03",
@@ -439,7 +437,7 @@ window.RESEARCH_CENTER = {
       "status": "prototype",
       "statusText": "原型迭代",
       "period": "2026",
-      "summary": "让聊天机器人在真实对话情境中理解个人表情的用法，比较通用表达、个人复用与视觉趋异策略下的持续交互体验。",
+      "summary": "已构建支持个人表情、情境记忆与语义纠正的持续陪伴原型。正在以28天纵向研究方案检验表达适应与信任变化，尚未报告实验效果。",
       "lead": "同一张表情包可以是玩笑、安慰，也可以是在回避一个难以表达的话题。小屿关注个人表达的具体情境，研究 AI 如何通过持续互动理解这些差异。",
       "symbol": ":)",
       "color": "#cfcbff",
@@ -579,7 +577,8 @@ window.RESEARCH_CENTER = {
         }
       ],
       "topicId": "voice-emotion-trust",
-      "topicTitle": "人智语音交互中的情感与信任研究"
+      "topicTitle": "人智语音交互中的情感与信任研究",
+      "cardSummary": "构建支持个人表情、情境记忆与语义纠正的持续陪伴原型，正在完善28天纵向方案，尚未报告实验效果。"
     },
     {
       "id": "driving-agent-emotion",
@@ -613,7 +612,7 @@ window.RESEARCH_CENTER = {
           "value": "5 类模拟驾驶任务"
         }
       ],
-      "direction": "智能座舱与空间认知",
+      "direction": "智能座舱与空间智能体互动研究",
       "directionId": "direction-mobility",
       "tags": [
         "驾驶智能体",
@@ -911,7 +910,7 @@ window.RESEARCH_CENTER = {
         "driving-agent-emotion",
         "peephole-wayfinding"
       ],
-      "direction": "智能座舱与空间认知",
+      "direction": "智能座舱与空间智能体互动研究",
       "coverCredit": "AI 概念视觉",
       "coverPosition": "center",
       "directionId": "direction-mobility",
@@ -1494,7 +1493,7 @@ window.RESEARCH_CENTER = {
       "related": [
         "project-05"
       ],
-      "direction": "智能座舱与空间认知",
+      "direction": "智能座舱与空间智能体互动研究",
       "coverAlt": "小屏移动地图的透明度与寻路认知 · AI 概念视觉",
       "coverCredit": "AI 概念视觉",
       "coverPosition": "center",
@@ -2312,8 +2311,8 @@ window.RESEARCH_CENTER = {
       "id": "direction-embodied-trust",
       "title": "个性化人智交互用户体验与信任研究",
       "en": "User Experience & Trust in Personalized Human–AI Interaction",
-      "summary": "围绕个性化陪伴、情感沟通与具身反馈，研究人如何理解智能体的回应、形成信任，并在持续交互中保有选择与控制。",
-      "lead": "我们从陪伴交互的设计趋势与策略、人智语音交互中的情感与信任两个主题展开，结合理论建模、系统综述、用户实验与可运行原型，研究个性化人智交互的体验与信任。",
+      "summary": "从表情、语言与回应节奏出发，研究个性化智能体怎样被用户理解、信任，并在持续互动中保持合适的关系与使用边界。",
+      "lead": "陪伴智能体的外观、语言、行为与记忆都可能成为关系线索。我们把设计问题拆成可以检验的变量：回应是否让人感到被理解，个性化由谁控制，以及主观信任是否与实际依赖一致。已有工作包括三通道反馈模型、30项实证研究的系统综述、414人的双实验和持续陪伴原型。",
       "keywords": [
         "个性化体验",
         "人机陪伴",
@@ -2358,48 +2357,63 @@ window.RESEARCH_CENTER = {
           "id": "stage-01",
           "title": "人机陪伴交互设计趋势洞察与策略研究",
           "paragraphs": [
-            "从社会线索与具身反馈模型出发，梳理陪伴智能体如何通过表情、声音和回应节奏形成关系体验；结合30项实证研究的系统综述，比较系统适应、用户定制与信任评价。"
+            "陪伴系统可以记住用户、调整表达，也可以允许用户定制形象与风格。这些设计可能提供熟悉感、控制感或能力线索，但不同任务与关系期待会改变用户的解释。研究首先追问：哪些个性化方式在什么情境下与信任有关？",
+            "我们以三通道、六类具身反馈变量组织设计空间，并从854条检索记录中筛选30项实证研究，区分系统自动适应与用户主动定制的信任路径。已有证据提示，任务情境需要关注能力和可靠性，关系情境需要关注连续回应与社会连接；评价还应同时观察信任评分和实际依赖。"
           ],
+          "figures": [
+            {
+              "src": "assets/research-center/evidence/project-04-figure-1.webp",
+              "caption": "从左到右阅读：系统根据关系历史、用户状态或相似性进行适应，用户也可以主动定制智能体；这些做法可能通过能力感知、相似性感知或心理所有权联系主观信任。箭头是综述整理的解释路径，整张框架尚未作为一个因果模型得到验证。",
+              "kind": "论文原图"
+            }
+          ],
+          "takeaway": "用理论模型定义设计变量，用系统综述说明证据与适用条件。",
           "links": [
             {
-              "label": "进入陪伴设计策略研究",
+              "label": "查看研究背景、证据与设计策略",
               "url": "#companion-design-strategy"
             }
-          ]
+          ],
+          "eyebrow": "THEME 01 · 模型与证据"
         },
         {
           "id": "stage-03",
           "title": "人智语音交互中的情感与信任研究",
           "paragraphs": [
-            "以共情沟通实验、依恋理论模型和持续陪伴原型为基础，关注情感表达、回应方式和个体差异如何联系信任。已有双实验提供文本沟通证据，小屿提供文字与表情的交互载体，声音韵律与轮次反馈属于正在拓展的研究内容。"
+            "在关系修复等支持任务中，用户既需要处理情绪，也需要判断建议是否值得依赖。表达关怀、理解处境和说明行动后果，是不同的沟通设计问题；相同回应还可能被具有不同支持期待的用户作出不同解释。",
+            "两个独立的文本交流实验共分析414名参与者。情感共情在两个实验中均对应更高的感知回应性，其中受伤方实验还出现更高整体信任。小屿把问题延伸到文字与个人表情的持续互动；声音韵律、音色与轮次节奏则需要在相应语音原型中另外检验。"
           ],
+          "figures": [
+            {
+              "src": "assets/research-center/evidence/project-01-figure-1.webp",
+              "caption": "两个实验共享“情绪支持—问题探索与分析—建议提供”的对话过程：共情类型在支持阶段操纵，消息框架在建议阶段操纵。前测记录个体差异，交互后的同一轮问卷测量信任与感知回应性，因此流程本身不能证明两者之间的因果中介。",
+              "kind": "论文原图"
+            }
+          ],
+          "takeaway": "已有文本实验提供沟通证据，持续陪伴与声音反馈研究继续检验时间和通道的作用。",
           "links": [
             {
-              "label": "进入情感与信任研究",
+              "label": "查看双实验、理论与持续陪伴原型",
               "url": "#voice-emotion-trust"
             }
-          ]
+          ],
+          "eyebrow": "THEME 02 · 实验与持续交互"
         },
         {
           "id": "stage-05",
           "title": "正在进行的研究：跨通道协同与信任校准",
           "paragraphs": [
-            "围绕表情、语调、主动性与轮次节奏组织可比较的反馈条件，研究不同线索的一致与冲突如何影响用户理解。",
-            "当前重点是原型与研究方案的迭代，区分社会临场感、主观信任、实际依赖与系统表现；尚不报告新的实验效果。"
+            "后续研究将把共情内容、表情、韵律温暖度、主动回应与轮次协调组织为可比较的交互条件，观察不同线索的一致或冲突怎样影响用户理解。评价将区分社会临场感、主观信任、实际依赖与系统表现；当前产出是原型和研究方案，跨通道效果尚待实验检验。"
           ],
-          "figures": [
-            {
-              "src": "assets/research-center/ai/embodied-detail.webp",
-              "caption": "跨通道反馈的 AI 概念视觉，用于呈现研究主题。",
-              "kind": "AI 概念视觉"
-            }
-          ]
+          "eyebrow": "ONGOING · 跨通道研究"
         }
       ],
       "code": "DIRECTION 01",
       "sectionAliases": {
         "stage-02": "stage-01",
-        "stage-04": "stage-03"
+        "stage-04": "stage-03",
+        "questions": "stage-01",
+        "emotion": "stage-03"
       },
       "exploreGroups": [
         {
@@ -2425,91 +2439,22 @@ window.RESEARCH_CENTER = {
               "title": "跨通道协同与信任校准",
               "statusText": "正在进行 · 原型与研究方案",
               "cover": "assets/research-center/ai/embodied-detail.webp",
-              "id": "direction-embodied-trust-stage-05"
+              "id": "direction-embodied-trust-stage-05",
+              "summary": "把表情、语调、主动回应与轮次节奏组织为可比较的条件，正在完善原型与研究方案，检验反馈一致性如何影响理解与信任。"
             }
           ]
         }
       ],
-      "detailCover": "assets/research-center/ai/human-personalized.webp"
-    },
-    {
-      "id": "direction-trust",
-      "code": "DIRECTION 02",
-      "title": "人机信任与情感化个性化智能体",
-      "en": "Human–AI Trust & Affective Personalized Agents",
-      "summary": "研究情感化表达、个性化线索与持续互动如何影响用户对智能体的判断，关注信任、实际依赖与关系体验。",
-      "lead": "面向日常陪伴与情感交流，研究个性化线索、共情表达和持续互动如何塑造用户体验与信任。将用户的依恋差异、表达习惯和控制需求纳入智能体设计。",
-      "symbol": "TRUST",
-      "cover": "assets/research-center/ai/human-personalized.webp",
-      "keywords": [
-        "共情沟通",
-        "个性化",
-        "长期交互",
-        "信任测量"
-      ],
-      "color": "#cfcbff",
-      "statusText": "研究方向",
-      "kindLabel": "Research Focus",
-      "meta": [
-        {
-          "label": "相关项目",
-          "value": "3 个"
-        },
-        {
-          "label": "研究视角",
-          "value": "共情沟通与个性化"
-        },
-        {
-          "label": "实践连接",
-          "value": "长期交互与信任测量"
-        }
-      ],
-      "sections": [
-        {
-          "id": "questions",
-          "title": "研究问题",
-          "paragraphs": [
-            "智能体如何理解个体的支持需求，怎样让回应可理解、可修正，并让用户形成与系统能力相称的信任？"
-          ]
-        },
-        {
-          "id": "emotion",
-          "title": "情感表达、依恋与持续互动",
-          "paragraphs": [
-            "共情实验提供沟通方式与信任的关系证据，依恋模型解释个体支持期待，小屿原型将个人语义和记忆带入持续交互。"
-          ],
-          "links": [
-            {
-              "label": "人智语音交互中的情感与信任研究",
-              "url": "#voice-emotion-trust"
-            }
-          ]
-        }
-      ],
-      "related": [
-        "project-01",
-        "project-02",
-        "project-03"
-      ],
-      "coverAlt": "人机信任与情感化个性化智能体 · AI 概念视觉",
-      "coverCredit": "AI 概念视觉",
-      "detailCover": "assets/research-center/ai/human-trust.webp",
-      "exploreGroups": [
-        {
-          "title": "情感化个性化智能体的研究与原型",
-          "items": [
-            "project-01",
-            "project-02",
-            "project-03"
-          ]
-        }
+      "detailCover": "assets/research-center/ai/human-personalized.webp",
+      "aliases": [
+        "direction-trust"
       ]
     },
     {
       "id": "direction-mobility",
-      "code": "DIRECTION 03",
-      "title": "智能座舱与空间认知",
-      "en": "Intelligent Mobility & Spatial Cognition",
+      "code": "DIRECTION 02",
+      "title": "智能座舱与空间智能体互动研究",
+      "en": "Intelligent Cockpits & Spatial Agent Interaction",
       "summary": "围绕驾驶智能体与用户情感，结合车载语音、空间能力和认知负荷研究，探索如何让座舱交互适应用户状态与道路任务。",
       "lead": "驾驶中的智能体既传递信息，也影响情绪体验。我们从三个相互关联的问题展开研究：具身呈现如何与用户情绪共同作用，语音信息量如何匹配任务负荷，小屏地图如何支持空间理解。",
       "symbol": "MOVE",
@@ -2637,7 +2582,7 @@ window.RESEARCH_CENTER = {
         "project-05",
         "peephole-wayfinding"
       ],
-      "coverAlt": "智能座舱与空间认知 · AI 概念视觉",
+      "coverAlt": "智能座舱与空间智能体互动研究 · AI 概念视觉",
       "coverCredit": "AI 概念视觉",
       "exploreGroups": [
         {
@@ -2658,7 +2603,7 @@ window.RESEARCH_CENTER = {
     },
     {
       "id": "direction-home",
-      "code": "DIRECTION 04",
+      "code": "DIRECTION 03",
       "title": "智能家居隐私与家庭互动",
       "en": "Smart Homes, Privacy & Family Interaction",
       "summary": "围绕家庭设备协作、隐私边界与日常策略的变化开展系列研究，并通过 SafeSync 原型探索隐私控制的交互方式。",
@@ -2733,7 +2678,7 @@ window.RESEARCH_CENTER = {
     },
     {
       "id": "direction-inclusive",
-      "code": "DIRECTION 05",
+      "code": "DIRECTION 04",
       "title": "包容性服务与学习体验",
       "en": "Inclusive Services & Learning Experiences",
       "summary": "关注不同认知特点、年龄与生活情境中的体验差异，从需求分析出发设计可理解、可参与的产品和服务。",
@@ -2891,7 +2836,7 @@ window.RESEARCH_CENTER = {
     },
     {
       "id": "direction-futures",
-      "code": "DIRECTION 06",
+      "code": "DIRECTION 05",
       "title": "人机共创与设计未来学",
       "en": "Human–AI Co-creation & Design Futures",
       "summary": "通过思辨设计、文化研究与教学方式探索，研究人如何参与技术未来的构想、制作与判断。",
@@ -3066,6 +3011,12 @@ window.RESEARCH_CENTER = {
     }
   ],
   "aliases": {
+    "direction-trust-questions": "direction-embodied-trust-stage-01",
+    "direction-trust-emotion": "direction-embodied-trust-stage-03",
+    "direction-trust-overview": "direction-embodied-trust-overview",
+    "direction-trust-explore": "direction-embodied-trust-explore",
+    "direction-trust-related": "direction-embodied-trust-related",
+    "direction-trust": "direction-embodied-trust",
     "project-04": "project-02-stage-02",
     "family-smart-home": "privacy-in-motion-stage-01",
     "family-privacy": "privacy-in-motion-stage-02",
@@ -3079,8 +3030,8 @@ window.RESEARCH_CENTER = {
       "id": "companion-design-strategy",
       "title": "人机陪伴交互设计趋势洞察与策略研究",
       "en": "Trends & Strategies for Human–AI Companion Interaction",
-      "summary": "以反馈模型和系统综述连接陪伴交互的设计趋势、用户体验与信任。",
-      "lead": "从“智能体如何回应”到“个性化为何产生作用”，我们综合结构化反馈模型与已有实证证据，形成面向人机陪伴的设计变量与评价策略。",
+      "summary": "结合三通道反馈模型与30项实证研究，解释个性化由谁控制、如何联系信任，以及哪些设计条件仍需检验。",
+      "lead": "从角色外观到回应时机，从系统记忆到用户定制，陪伴交互包含多种社会线索。这个主题把分散的设计选择整理为可操作的变量和证据路径，帮助判断何时需要适应、让用户控制什么，以及如何评价信任。",
       "keywords": [
         "个性化体验",
         "人机陪伴",
@@ -3116,32 +3067,53 @@ window.RESEARCH_CENTER = {
       "sections": [
         {
           "id": "background",
-          "title": "研究背景",
+          "title": "研究背景：个性化怎样成为关系线索",
           "paragraphs": [
-            "陪伴智能体通过外观、语言、行为与记忆建立连续互动。设计需要理解哪些线索有意义，以及它们在何种情境下联系信任。"
+            "具身智能体通过可见形象、语言、动作和记忆进入教育、健康、商业服务、社会支持与协作任务。用户会据此判断系统能否胜任任务、是否记得自己、回应是否符合当下需要。同一种设计在不同场景中可能承担不同作用：任务协作更依赖能力和可靠性，长期陪伴还涉及关系连续性与社会连接。",
+            "相关证据分散在不同的智能体类型、个性化方式和信任量表中。“更像用户”“更熟悉”与“更可定制”并不能互相替代。因此，研究把个性化的发起者、可调整的反馈变量和用户的实际感受分开考察，避免把增加个性化程度直接当作普遍有效的策略。"
+          ],
+          "points": [
+            "系统自动适应与用户主动定制，分别通过哪些感知路径联系信任？",
+            "表情、声音和回应行为应该怎样组合，才能符合任务与关系角色？",
+            "更高的信任评分是否伴随更多实际依赖，是否与系统能力相称？"
           ]
         },
         {
           "id": "work",
-          "title": "我们做了什么",
+          "title": "研究方法：从反馈变量到文献证据",
           "paragraphs": [
-            "建立视觉、听觉与行为三通道的反馈变量框架，并提出输入—中介—输出路径；另以系统检索与主题编码综合30项具身智能体个性化研究。"
-          ]
+            "理论研究将面部表情、韵律温暖度、主动回应、动作同步、社会性语言与轮次协调归入视觉、听觉和行为三个通道，用输入—中介—输出模型组织用户的感知、解释和行为意向。系统综述另按PRISMA流程检索四个数据库，从854条记录中纳入30项实证研究，对应用情境、个性化因素、信任测量与主要发现进行主题编码，并结合关键词可视化观察研究趋势。"
+          ],
+          "figures": [
+            {
+              "src": "assets/research-center/evidence/project-04-figure-2.webp",
+              "caption": "四个数据库共检索到854条记录，去除413条重复记录后，依次进行标题摘要与全文筛选，最终纳入30项实证研究。该图交代证据样本的形成过程，30项研究不能等同于这一领域的全部研究。",
+              "kind": "论文原图"
+            }
+          ],
+          "takeaway": "理论模型回答“可以操纵什么”，系统综述回答“已有证据支持到哪里”。"
         },
         {
           "id": "findings",
-          "title": "研究发现与设计含义",
+          "title": "已有证据：两种控制方式与多条信任路径",
           "paragraphs": [
-            "综述显示，任务情境更关注能力与可靠性，关系情境更关注社会连接和连续回应。用户定制与系统自动适应具有不同的控制方式，需要分别评估。",
-            "设计策略是先明确任务与关系角色，再选择反馈变量，并同时测量主观信任和实际依赖。模型提供可检验路径，不能替代跨通道的因果验证。"
+            "综述区分系统驱动的个性化与用户控制的定制：前者包括关系连续性、用户状态与情境适应、相似性匹配，后者包括身份、外观与交互风格的自主配置。能力感知、主观相似性、人格相似性和心理所有权是文献中出现的可能解释路径。个性化的作用随任务、角色期待和用户解释而变化；用户报告的信任与委托资源、采纳建议等行为也可能出现分离。"
           ],
           "figures": [
             {
               "src": "assets/research-center/evidence/project-04-figure-1.webp",
-              "caption": "个性化路径的证据综合框架。",
+              "caption": "从左到右阅读：系统根据关系历史、用户状态或相似性进行适应，用户也可以主动定制智能体；这些做法可能通过能力感知、相似性感知或心理所有权联系主观信任。箭头是综述整理的解释路径，整张框架尚未作为一个因果模型得到验证。",
               "kind": "论文原图"
             }
           ]
+        },
+        {
+          "id": "implications",
+          "title": "设计含义与下一步",
+          "paragraphs": [
+            "设计时先明确智能体承担的任务与社会角色，再决定哪些线索需要适应、哪些配置应交给用户，并结合主观信任与实际依赖评价效果。三通道模型提出了专家评估和受控原型实验的验证路线；综述为变量选择提供依据。两者都没有证明某套反馈组合普遍最优，尤其需要通过持续交互检验新奇感消退后的信任变化。"
+          ],
+          "takeaway": "现阶段产出是变量框架、证据综合和设计策略；整体因果路径与长期效果仍需验证。"
         }
       ],
       "code": "RESEARCH THEME 01",
@@ -3161,8 +3133,8 @@ window.RESEARCH_CENTER = {
       "id": "voice-emotion-trust",
       "title": "人智语音交互中的情感与信任研究",
       "en": "Emotion & Trust in Human–AI Voice Interaction",
-      "summary": "连接共情表达、依恋差异与持续交互，探索情感与信任的形成。",
-      "lead": "围绕人智语音交互中的情感与信任，整合已有共情沟通实验、依恋理论模型与个性化陪伴原型，推进从语言内容到声音、节奏和多模态反馈的研究。",
+      "summary": "以414人的文本双实验和持续陪伴原型研究被理解感、个体支持需求与信任，并向声音及轮次反馈拓展。",
+      "lead": "情感沟通同时涉及说什么、怎样表达和何时回应。这个主题先从可控制的文本实验建立证据，再把个人表达与关系历史带入持续陪伴，逐步界定声音和多模态反馈中值得检验的变量。",
       "keywords": [
         "个性化体验",
         "人机陪伴",
@@ -3199,56 +3171,80 @@ window.RESEARCH_CENTER = {
       "sections": [
         {
           "id": "background",
-          "title": "研究背景与问题",
+          "title": "研究背景：支持为什么需要被理解",
           "paragraphs": [
-            "用户会从表达内容、语气与回应节奏判断智能体是否理解自己。不同的支持期待与交互历史，可能使相同反馈带来不同体验。"
+            "关系修复往往同时涉及受伤情绪、责任承担、边界表达和后续沟通选择。用户很难在采纳建议前确认结果，只能结合对话内容与互动体验判断是否值得依赖。研究因此关注两类语言设计：认知共情强调理解处境与观点，情感共情强调确认感受与表达关怀；收益和损失框架则分别突出采取建议的收益与不采取建议的后果。"
+          ],
+          "points": [
+            "不同共情表达是否改变用户的感知回应性和信任？",
+            "消息框架、关系修复角色与个体支持需求，是否对应不同评价？",
+            "这种体验能否在持续互动中保持，又会怎样受到声音和轮次反馈影响？"
+          ],
+          "figures": [
+            {
+              "src": "assets/research-center/evidence/project-01-figure-3.webp",
+              "caption": "左侧是两项可操纵的语言因素，中间为用户感到自己被理解、被确认和被关心的程度，右侧为信任；依恋焦虑与回避作为连续个体差异纳入分析。这是实验的提问框架，图中假设箭头不代表每条路径都得到结果支持。",
+              "kind": "论文原图"
+            }
           ]
         },
         {
           "id": "attachment",
-          "title": "依恋理论与个体支持需求",
+          "title": "理论视角：支持期待存在个体差异",
           "paragraphs": [
-            "依恋回避路径突出距离保持、独立与自我调节，依恋焦虑路径突出接近寻求、对支持可得性的敏感及不安全感。图中呈现的是解释支持需求的理论路径。",
-            "在本研究中，依恋焦虑与回避作为连续的个体差异变量纳入探索性分析。不能仅凭理论图为用户贴标签，也不能据此固定分配共情方式；实际结果需要结合用户反馈和实验情境解释。"
+            "感知回应性指用户是否感到自己的处境被理解、感受被确认、需要被关心。依恋理论进一步提示，人对支持可得性、亲近与自主性的期待并不相同。研究把依恋焦虑与回避作为连续个体差异，考察它们与沟通条件、回应性和信任之间的关系；这些变量用于解释差异，不能据此给用户固定贴标签或自动分配一种共情方式。"
           ],
           "figures": [
             {
               "src": "assets/research-center/evidence/attachment-model.webp",
-              "caption": "依恋回避与依恋焦虑的典型情绪调节路径。用于说明本研究的理论分析依据。",
+              "caption": "图中对照依恋回避与依恋焦虑的典型情绪调节路径，用于理解自主、亲近与支持可得性的不同期待。研究将两者作为连续个体差异分析，该图不构成用户分类或固定匹配共情方式的规则。",
               "kind": "理论模型"
             }
           ]
         },
         {
           "id": "work",
-          "title": "我们做了什么研究",
+          "title": "研究方法：在共同对话流程中比较语言选择",
           "paragraphs": [
-            "已完成两个独立的2×2文本交流实验，分别分析210名与204名参与者；比较认知／情感共情、收益／损失消息框架，并检验依恋差异。",
-            "小屿原型支持个人表情、情境记忆与语义纠正，正在组织28天纵向研究方案。车载语音研究另外提供信息长度、空间能力与认知负荷的证据。"
+            "两个独立随机实验分别考察过错方视角（n=210）与受伤方视角（n=204），每项均采用共情类型×消息框架的2×2组间设计。参与者通过手机网页完成多轮交流，依次接受情绪支持、问题探索与分析、建议提供；名称、头像和界面保持一致，在指定阶段调整语言。交互后测量信任与感知回应性，并检验依恋差异。"
+          ],
+          "figures": [
+            {
+              "src": "assets/research-center/evidence/project-01-figure-1.webp",
+              "caption": "两个实验共享“情绪支持—问题探索与分析—建议提供”的对话过程：共情类型在支持阶段操纵，消息框架在建议阶段操纵。前测记录个体差异，交互后的同一轮问卷测量信任与感知回应性，因此流程本身不能证明两者之间的因果中介。",
+              "kind": "论文原图"
+            }
           ]
         },
         {
           "id": "findings",
-          "title": "已有发现与含义",
+          "title": "已有发现：回应性与整体信任应分别观察",
           "paragraphs": [
-            "两个实验中，情感共情均对应更高感知回应性；其中受伤方实验还出现更高整体信任。依恋相关分析提示用户差异需要结合情境解释，不能据此固定匹配表达风格。",
-            "现有实验来自文本交流，不能直接证明韵律、音色或语音轮次的效果。声音线索的作用需要在对应原型中独立检验。"
-          ]
+            "情感共情条件在两个实验中均对应更高的感知回应性，受伤方实验还对应更高的整体信任；过错方实验的整体信任主效应不显著。收益与损失框架没有显示稳健的整体主效应，跨实验比较也未支持按角色固定匹配表达风格。依恋相关分析提示用户差异值得继续检验，但回应性与信任在同一时间测量，不能把间接关联解释为已经证明的因果机制。"
+          ],
+          "takeaway": "已有证据来自单次文本交流，不能直接证明韵律、音色或语音轮次的效果。"
         },
         {
           "id": "ongoing",
-          "title": "正在进行的研究",
+          "title": "从单次支持走向持续陪伴",
           "paragraphs": [
-            "结合共情内容、韵律温暖度、轮次协调和表达连续性，细化情感化个性化智能体的研究条件；区分被理解感、信任评分与实际依赖。"
+            "小屿已形成文字、Emoji与个人表情的网页原型，结合实际对话学习表情用法，并允许用户纠正理解。28天纵向方案计划在第7、14、28天观察信任变化，同时区分使用行为与表达方式；研究尚未报告纵向效果。沟通适应模型用趋同、趋异与保持解释表达调整的不同可能含义，声音韵律和轮次协调的后续扩展也将分别定义操纵条件与评价指标。"
+          ],
+          "figures": [
+            {
+              "src": "assets/research-center/evidence/xiaoyu-communication-accommodation.webp",
+              "caption": "沿实线看一轮表达如何进入下一轮互动；沿虚线看同一种表达策略可能被解释为理解、模仿、互补或疏离。趋同、趋异与保持描述可能的互动路径，图中关系是理论延伸，尚不是小屿纵向实验的结果。",
+              "kind": "理论模型"
+            }
           ],
           "links": [
             {
-              "label": "查看共情实验数据与原型",
+              "label": "查看双实验方法与数据",
               "url": "#project-01"
             },
             {
-              "label": "查看小屿网页原型",
-              "url": "#project-03-demo"
+              "label": "查看小屿原型与研究方案",
+              "url": "#project-03"
             }
           ]
         }
@@ -3495,10 +3491,6 @@ window.RESEARCH_CENTER = {
     "assets/research-center/evidence/project-04-figure-2.webp": [
       714,
       1034
-    ],
-    "assets/research-center/evidence/project-04-figure-3.webp": [
-      1269,
-      627
     ],
     "assets/research-center/evidence/project-05-figure-1.webp": [
       2200,

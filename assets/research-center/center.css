@@ -112,3 +112,39 @@ body.route-enabled.route-home .home-collection-section{display:block}.home-colle
 @media(max-width:900px){.lab-news-grid{gap:22px;grid-template-columns:1fr 1fr}.lab-news-media{height:240px}.lab-news-copy,.lab-news-list .lab-news-copy{padding:24px}.lab-news-list .lab-news-card h3{font-size:21px}.lab-news-card p{font-size:13px}.home-core-section{margin-top:72px;padding-top:64px}}
 @media(max-width:620px){.home-module-heading{margin-bottom:30px}.home-module-heading h2{font-size:32px;line-height:1.3;letter-spacing:-.025em}.home-module-heading>p{font-size:15px}.lab-news-grid{grid-template-columns:1fr;gap:20px}.lab-news-list{gap:20px}.lab-news-media{height:220px}.lab-news-card h3,.lab-news-list .lab-news-card h3{font-size:22px}.lab-news-card p{font-size:14px}.lab-news-copy,.lab-news-list .lab-news-copy{padding:24px}.home-core-section{margin-top:60px;padding-top:48px}.home-core-section .focus-spotlight{margin-bottom:24px}.lab-news-section,.home-core-section{scroll-margin-top:90px}}
 @media(prefers-reduced-motion:reduce){.lab-news-card,.lab-news-media img,.lab-news-arrow{transition:none}.lab-news-card:hover{transform:none}}
+
+/* Readable research narratives, with evidence close to each claim. */
+.project-detail-content{font-size:16px;line-height:1.9}
+.project-detail-lead{padding:30px 34px;margin-bottom:24px;border-radius:16px;border:0;border-left:3px solid #c5bcf0;background:#f5f3fa}
+.project-detail-lead p{font-size:clamp(19px,1.65vw,23px)!important;line-height:1.85!important;font-weight:500;color:#35313e}
+.project-detail-block h2{font-size:clamp(23px,2vw,29px);line-height:1.5;letter-spacing:-.02em;margin-bottom:22px;text-wrap:pretty}
+.project-detail-block>p{line-height:1.95;color:#54515c}
+.project-detail-block+.project-detail-block{padding-top:42px;margin-top:42px}
+.project-detail-content>.research-facts:empty{display:none}
+.research-facts{padding:22px 0 28px;gap:20px}
+.research-facts strong{font-size:16px;line-height:1.6}
+.project-detail-sidebar{gap:38px}
+.project-detail-sidebar nav{gap:15px;padding-top:28px}
+.direction-narrative>.focus-eyebrow{margin-bottom:12px;font-size:11px}
+.direction-narrative .research-figure{margin-top:28px}
+.research-figure figcaption{font-size:13px;line-height:1.85;padding:20px 24px}
+.research-figure figcaption>a{display:block;width:fit-content;margin:12px 0 0;color:#63558d}
+.phase-takeaway{border-radius:0 10px 10px 0;padding:18px 22px;margin:24px 0}
+.phase-links a{font-size:14px;font-weight:550}
+.research-explorer{padding-top:38px;padding-bottom:40px}
+.research-explorer>h2{font-size:clamp(25px,2.1vw,30px);line-height:1.4}
+.explore-group{margin-top:36px}
+.explore-group>h3{font-size:20px;line-height:1.6}
+.explore-copy{padding:24px 20px 22px;gap:12px;min-height:214px}
+.explore-copy>div{min-width:0;flex:1}
+.explore-copy strong{font-size:17px;line-height:1.6}
+.explore-state{font-size:11px;color:#6c6088;margin-top:9px}
+.explore-copy .explore-summary{font-size:13px;line-height:1.85;color:#696370;margin:13px 0 0;font-weight:400}
+.explore-arrow{flex:0 0 20px;font-size:22px}
+.explore-reveal{height:136px}
+.explore-reveal img{height:210px;opacity:.95}
+.work-card--compact .work-card-summary{font-size:13px;line-height:1.85;margin-bottom:22px}
+@media(min-width:1100px){.project-detail-layout{grid-template-columns:minmax(180px,220px) minmax(0,900px);gap:clamp(48px,6vw,90px);padding-top:72px}}
+@media(max-width:900px){.project-detail-layout{gap:30px}.project-detail-sidebar nav a{font-size:12px}.project-detail-lead{padding:24px}.explore-copy{padding:20px 16px;min-height:240px;gap:8px}.explore-copy strong{font-size:16px}}
+@media(max-width:700px){.explore-copy{min-height:0;padding:22px}.explore-copy .explore-summary{font-size:14px}.explore-reveal,.explore-reveal img{height:190px}.explore-group>h3{font-size:19px}}
+@media(max-width:620px){.project-detail-lead p{font-size:20px!important;line-height:1.8!important}.project-detail-block h2{font-size:24px}.project-detail-block+.project-detail-block{padding-top:32px;margin-top:32px}.research-figure figcaption{padding:16px;font-size:12px}.project-detail-sidebar{gap:20px}.project-detail-sidebar nav{padding-top:0}.research-facts strong{font-size:15px}}
