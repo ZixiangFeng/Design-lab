@@ -1582,7 +1582,7 @@ body.route-enabled.route-intro .site-main { display: none; }
     <script src="content/projects.js?v=20261111-performance-1"></script>
     <script src="assets/research-center/image-sources.js?v=20261111-performance-1"></script>
     <script src="assets/research-center/center.js?v=20261111-performance-1"></script>
-    <script src="assets/research-center/navigation.js?v=20261111-performance-1"></script>
+    <script src="assets/research-center/navigation.js?v=20261112-navigation-1"></script>
     <script>
 (() => {
   "use strict";
@@ -2111,9 +2111,13 @@ body.route-enabled.route-intro .site-main { display: none; }
     });
   }
 
+  let routeScrollFrame = 0;
+  let renderedPage = null;
   function applyRoute(options = {}) {
-    const normalizedHash = window.researchCenter?.resolveHash(window.location.hash);
-    if (normalizedHash && normalizedHash !== window.location.hash) history.replaceState(history.state, "", normalizedHash);
+    window.cancelAnimationFrame(routeScrollFrame);
+    const page = window.researchCenter?.detailForHash(window.location.hash)?.id || getRouteFromHash();
+    const changedPage = page !== renderedPage;
+    renderedPage = page;
     const route = getRouteFromHash();
     window.researchCenter?.renderDetail(window.location.hash);
     if (route !== "projectDetail") document.title = "Trust Personal AI Lab · 研究中心";
@@ -2138,7 +2142,12 @@ body.route-enabled.route-intro .site-main { display: none; }
     const target = window.location.hash === "#join"
       ? document.querySelector("#join")
       : hashTarget || document.querySelector(routeSections[route][0]);
-    window.requestAnimationFrame(() => target?.scrollIntoView({ block: "start" }));
+    const expectedHash = window.location.hash;
+    routeScrollFrame = window.requestAnimationFrame(() => {
+      routeScrollFrame = 0;
+      if (window.location.hash !== expectedHash) return;
+      target?.scrollIntoView({ block: "start", behavior: changedPage || reducedMotion.matches ? "instant" : "smooth" });
+    });
   }
 
   window.researchNavigation.start(applyRoute);
