@@ -1,0 +1,141 @@
+{
+  "generatedWith": "Built-in image_gen",
+  "kind": "AI-generated photographic scenario illustrations",
+  "reference": "https://www.media.mit.edu/groups/fluid-interfaces/projects/",
+  "sharedPrompt": "Use case: photorealistic-natural. Asset type: individual research project cover for a Chinese university design and human-computer interaction laboratory website. Produce ONE polished editorial documentary PHOTOGRAPH, horizontal 3:2 landscape, with the main person and interaction in the central 80% and crop-safe for 16:9 thumbnails. Inspired by the direct, tactile, human-centered research demo photography seen on university Media Lab project websites. Realistic skin, ordinary everyday clothing, imperfect real materials, an observed moment rather than a posed advertising smile. The human user and what they are actually doing must be immediately legible at thumbnail size. Natural daylight or believable room lighting, restrained natural color, clear contrast, subtle depth of field, 35mm editorial camera. No decorative abstract illustration, no 3D render, no futuristic chrome, no holograms, no floating interface, no purple neon, no luminous ribbons, no glowing brains, no composited infographics, no collage, no logos, no watermarks, no overlaid typography. Any interface is confined to a physical device screen. People are fictional and must not resemble any named researcher. ",
+  "projects": [
+    {
+      "id": "triadic-embodied-feedback",
+      "title": "人机陪伴交互的结构化反馈设计策略",
+      "filename": "triadic-embodied-feedback.webp",
+      "scenePrompt": "An East Asian young adult woman in an ordinary light blue shirt sits at a real university interaction studio desk, speaking and making a small natural open-hand gesture toward a portrait monitor. The monitor visibly shows a friendly, understated flat virtual human face looking toward her, with a tiny audio indicator on the screen. Three-quarter side view includes her face, hand, and screen together; a small webcam on the monitor and a notebook on the desk. Warm white walls, pale wood, daylight. The virtual character only exists on the monitor, not as a robot or person in the room. Emphasize the reciprocity between her facial expression and the screen face, not decorative technology.",
+      "productReference": null
+    },
+    {
+      "id": "project-01",
+      "title": "个性化陪伴中的情感沟通与信任",
+      "filename": "project-01.webp",
+      "scenePrompt": "Quiet, intimate editorial photo of an East Asian adult man in his late twenties sitting by a window at a small home table, thoughtfully using a smartphone conversational support app after a difficult day. His face in three-quarter profile and the phone in his hands are both visible. The phone shows a modest text conversation with plain green and white chat bubbles, not an AI face. He has a soft reflective expression, neither exaggerated distress nor commercial smile. A closed journal and water glass on the table, cotton navy shirt, warm neutral lived-in apartment, soft late-afternoon sunlight. Tight waist-up shot, human emotion first, technology second.",
+      "productReference": null
+    },
+    {
+      "id": "project-02",
+      "title": "人机陪伴交互的个性化趋势与设计策略",
+      "filename": "project-02.webp",
+      "scenePrompt": "A fictional East Asian woman in her thirties actively CUSTOMIZING a virtual companion on a tablet at a bright university user-research studio, while a second East Asian adult researcher in casual clothing sits beside her listening. Tablet in foreground shows a tidy interface with two small avatar portraits and simple preference sliders, with no readable long text. The participant is pointing to a preference on the tablet while explaining something to the researcher, both faces visible. Medium close side angle, slate blue and warm white palette, normal notebook nearby. The scene expresses user agency and personalization, not psychotherapy, no robots.",
+      "productReference": null
+    },
+    {
+      "id": "project-03",
+      "title": "小屿：情感表达与持续陪伴交互",
+      "filename": "project-03.webp",
+      "scenePrompt": "Candid close-up editorial lifestyle photo of a young East Asian woman relaxed on a sofa in her own small bright apartment, smiling very gently at a smartphone in her hand as she chooses a personal expressive sticker in a simple conversation app. Her face, torso and phone are visible together, with the phone angled enough to see a small grid of playful hand-drawn animal expression stickers INSIDE its screen. A real paper journal with a page of tiny doodles sits on the cushion beside her. Afternoon daylight, terracotta cushion, off-white walls, teal knit sweater, natural skin. The atmosphere is recurring everyday companionship and personal expression, no floating emoji around the person.",
+      "productReference": null
+    },
+    {
+      "id": "driving-agent-emotion",
+      "title": "驾驶智能体的具身呈现与用户情绪体验",
+      "filename": "driving-agent-emotion.webp",
+      "scenePrompt": "A human-computer interaction driving simulator concept scene photographed like a real research demo. East Asian adult woman in a gray casual shirt is seated at a simple fixed-base driving simulator, hands naturally holding a steering wheel with a road scene on a wide physical monitor ahead. On the right of the road display is a SMALL separate tablet showing a friendly 2D virtual assistant face. Three-quarter side view clearly shows the driver's calm focused face, wheel, and assistant tablet together. Ordinary university lab, neutral daylight, practical black plastic equipment, no science-fiction dashboard, no actual moving car, no exaggerated futuristic avatar.",
+      "productReference": null
+    },
+    {
+      "id": "project-05",
+      "title": "车载语音的长短，如何影响驾驶表现",
+      "filename": "project-05.webp",
+      "scenePrompt": "Candid research demonstration photograph: an East Asian young adult man wearing an olive cotton overshirt uses a practical fixed-base desktop driving simulator in a bright modest university lab. His hands rest correctly on a black steering wheel, his attentive face is visible in profile. A physical monitor ahead displays a believable daytime road, and a small normal speaker sits by it; a second researcher out of focus sits behind with a laptop taking notes. Emphasize listening to spoken navigation while driving, no anthropomorphic assistant screen, no headset, no HUD. Medium wide view, crisp realistic equipment, natural room light.",
+      "productReference": null
+    },
+    {
+      "id": "privacy-in-motion",
+      "title": "智能家居的隐私协商与家庭协同",
+      "filename": "privacy-in-motion.webp",
+      "scenePrompt": "Observational editorial photo of an ordinary East Asian family at their dining table in a sunlit lived-in apartment: a woman in her thirties, a man in his thirties, and an older mother in her sixties discussing smart-home device controls together. One adult turns a modest white home camera's physical privacy shutter closed, while another holds a smartphone with simple toggle settings visible on the actual screen. Faces and the action are both legible. The older adult participates actively, not a passive background figure. Pale wood, green plant, warm natural daylight, three-quarter tabletop view. No surveillance light beams, no network graphics, no futuristic decor.",
+      "productReference": null
+    },
+    {
+      "id": "ai-co-speculation",
+      "title": "AI 与思辨设计的协作摩擦",
+      "filename": "ai-co-speculation.webp",
+      "scenePrompt": "Dynamic but natural editorial photograph of THREE East Asian adult design students collaborating around a physical studio worktable: one woman holds up a hand-drawn concept sketch, a man compares it with generated design thumbnails on a laptop, a second woman moves a rough cardboard prototype on the table. They are actively discussing and questioning, with thoughtful expressive faces. Real cutting mat, cardboard scraps, a few sketch sheets, pinboard in the background. Slightly elevated three-quarter medium-wide view, enough closeness for the hands and prototype to read. Warm afternoon workshop daylight, muted ochre and pale blue clothing. No holographic designs, no glossy future city, no floating objects.",
+      "productReference": null
+    },
+    {
+      "id": "bizika",
+      "title": "Bìzīkǎ 西兰卡普艺术音箱",
+      "filename": "bizika.webp",
+      "scenePrompt": "Create a NEW full-bleed horizontal documentary editorial photograph based on the speaker design in the reference, replacing the poster layout entirely. The reference is PRODUCT DESIGN REFERENCE ONLY. Preserve the distinctive tabletop speaker: roughly 35 cm tall, brushed silver twisting upper body and a sculptural hollow loop below wrapped in dark indigo woven textile with red/orange Xilankapu geometric motifs, on a small round metal base. In a warm ordinary living room, a fictional East Asian adult woman in a linen shirt sits next to a side table and naturally reaches to adjust the speaker, listening thoughtfully. The speaker is in the foreground and her face, hand, and the whole product are clearly visible. Medium shot at table height, tactile woven fabric and brushed metal, natural side window daylight. Do not turn the speaker into an ordinary box or a person-sized sculpture. No poster titles, no reference page borders, no decorative lantern, no AI sci-fi lights. No logos.",
+      "productReference": "assets/research-center/evidence/bizika-1.webp"
+    },
+    {
+      "id": "soma",
+      "title": "SOMA 软体机器人健康监测概念",
+      "filename": "soma.webp",
+      "scenePrompt": "Create a NEW horizontal real-material editorial prototype demonstration photograph using only the physical soft robotic prototype photos on the RIGHT of the reference as PRODUCT FORM reference. Ignore and do not reproduce the circuit diagram, text or layout. A fictional East Asian adult woman design researcher in a pale gray cotton sweatshirt at a normal university studio workbench is gently holding a translucent soft silicone lobed petal-like pneumatic prototype with two hands; the prototype has a rounded white central form, five curved segmented finger-like silicone lobes and thin transparent air tubes. A simple Arduino board, wires and small air pump sit visibly on the tabletop to show a practical initial prototype. Her attentive face and hands both visible, roughly waist-up composition with equipment close to her. Natural window light, pale blue wall, realistic semi-translucent silicone texture. Not a wearable wristband, not an octopus pet, no medical procedure, no clinical patient, no hospital, no claimed diagnostic screen. No typography.",
+      "productReference": "assets/research-center/evidence/soma-1.webp"
+    },
+    {
+      "id": "neurobridge",
+      "title": "NeuroBridge 数字鸿沟的思辨设计",
+      "filename": "neurobridge.webp",
+      "scenePrompt": "Create a NEW horizontal editorial photograph of a tangible speculative-design prototype being tried by a fictional adult user in an ordinary studio, using the supplied reference ONLY for the external device form. Preserve a compact matte light-gray behind-the-ear module with curved ear hook and small lime-green inserts, scaled realistically like a hearing-assist prototype, clearly removable and external, no implantation or medical procedure. A fictional East Asian adult man in his forties sits at a bright design studio table, wearing the compact module on the camera-facing ear and touching it with one hand as he examines a tablet; a second younger adult designer listens beside him. Side three-quarter view focuses on the face, ear device, and hand. Warm neutral room, normal daylight, ordinary cotton clothing, subtle lime material accent only. The image is a scenario illustration for a speculative project, no extraordinary visual abilities. No floating chips, no labels from the reference, no circuit overlays, no luminous neural activity.",
+      "productReference": "assets/research-center/evidence/neurobridge-1.webp"
+    },
+    {
+      "id": "wudu-service",
+      "title": "嘉鱼呜嘟的严肃游戏化传习服务",
+      "filename": "wudu-service.webp",
+      "scenePrompt": "A natural documentary editorial photograph of a fictional older East Asian folk music teacher and two East Asian adult university learners seated together at a practical ceramic workshop table. The teacher demonstrates how to hold a SMALL palm-sized reddish brown fish-shaped hollow clay wind instrument called a Jiayu wudu, with a short mouthpiece and visible finger holes; one learner mirrors the hand position on a matching instrument while the other records the demonstration with an ordinary phone on a small tabletop stand. Hands and faces clearly visible, interaction and intergenerational learning central. Several small unfinished fish-shaped clay instruments and simple clay tools on the worktable, sunlit white wall with wooden shelves of pottery, warm natural colors. Do not depict any real named heritage bearer. No flutes, no bagpipes, no huge pottery vase instrument, no neon game world, no superimposed sound waves, no traditional costume theatrics.",
+      "productReference": null
+    },
+    {
+      "id": "adhd-inclusive",
+      "title": "面向 ADHD 成人的认知支持设计",
+      "filename": "adhd-inclusive.webp",
+      "scenePrompt": "A dignified candid editorial photograph of an East Asian adult woman at her compact home work desk, using a tactile time-management setup: one hand places a small wooden task token into a tray while the other adjusts a simple physical visual timer. Her attentive face is visible in three-quarter view. A laptop and three clean color-coded task cards are nearby, uncluttered but lived-in workspace. Focus on agency, practical cognitive support and real materials, not illness or distress. Gray-green cotton shirt, white wall, blue daylight, slightly elevated close medium shot. No medical equipment, no pill bottles, no glowing brain diagrams.",
+      "productReference": null
+    },
+    {
+      "id": "ar-science-books",
+      "title": "儿童 AR 科普绘本的需求与设计优先级",
+      "filename": "ar-science-books.webp",
+      "scenePrompt": "Bright, vivid editorial photograph of an East Asian primary school child around eight years old and an East Asian adult parent exploring a physical illustrated science picture book at a wooden table. The child holds a tablet above the open book and the tablet SCREEN shows a playful 3D dinosaur standing on the book through the camera view; outside the screen the book is ordinary paper and there is no floating dinosaur in the room. Parent leans in and points at a page, curious engaged expressions, natural unposed interaction. Medium side view contains faces, hands, book and tablet. Daylight in a modest reading corner, yellow shirt accent, rich but natural colors.",
+      "productReference": null
+    },
+    {
+      "id": "peephole-wayfinding",
+      "title": "小屏移动地图的透明度与寻路认知",
+      "filename": "peephole-wayfinding.webp",
+      "scenePrompt": "Street-level editorial photograph outdoors on a real walkable Chinese university campus. An East Asian woman in her twenties with a canvas tote has paused beside a pathway junction and is checking a map on a normal smartphone in her hand, turning her head to compare the path with the map. The phone screen is visibly a simple map, not floating over the world. Camera three-quarter view from slightly behind her shoulder, her profile and device both legible, actual trees, building edges and pedestrians softly out of focus provide spatial context. Overcast soft daylight, brick red and green palette, candid everyday navigation. No AR lines on ground, no hologram maps.",
+      "productReference": null
+    },
+    {
+      "id": "family-cai-education",
+      "title": "家庭教育中的对话式 AI 互动障碍",
+      "filename": "family-cai-education.webp",
+      "scenePrompt": "Human-centered editorial photograph of an East Asian mother and father helping their ten-year-old child with homework at an ordinary family dining table in the evening. The child asks a question while pointing to an exercise book; the mother looks at a laptop showing a simple conversational tutoring interface; the father listens and takes a note. All three have active roles, expressions thoughtful and a little puzzled, not staged celebratory smiles. The table has pencils and a real school notebook. Medium-wide eye-level shot with clear faces and hands, warm practical table lamp balanced by cool window light, natural home texture. No holograms, no cartoon robot, no visible personal data.",
+      "productReference": null
+    },
+    {
+      "id": "smartaste",
+      "title": "Smataste 个性化职场餐饮服务",
+      "filename": "smartaste.webp",
+      "scenePrompt": "Fresh candid editorial service-design photograph in a realistic modern office cafeteria at lunchtime. An East Asian office worker in a pale blue shirt is holding their smartphone with a simple meal ordering interface while receiving a reusable lunch bowl from a cafeteria staff member. A second coworker is in the soft background. Clearly show the two people's faces and the handoff, with colorful actual vegetables, grains and lunch bowls on a real counter. Medium three-quarter angle, white tile, daylight, green food accents, ordinary workplace clothing. Not a glossy food advertising still-life: the main story is a user receiving the personalized service. No holograms, no robot chef.",
+      "productReference": null
+    },
+    {
+      "id": "more-than-human",
+      "title": "从犬类气味理解人宠共处",
+      "filename": "more-than-human.webp",
+      "scenePrompt": "Engaging natural editorial photograph of an East Asian adult pet owner crouching at the edge of a quiet green neighborhood park while their medium-sized mixed-breed dog sniffs a patch of grass and a tree base on a loose leash. The owner waits patiently and watches the dog rather than pulling it away, dog's nose close to actual plants. Both owner's face and dog's whole body legible, low camera at dog's eye level, soft morning sun, textured grass and natural coat detail. Subtle practical cloth pouch attached to owner's belt, ordinary canvas jacket. Express respecting an animal's sensory experience. No floating scent clouds, no graphics, no smart robot pet.",
+      "productReference": null
+    },
+    {
+      "id": "agent-design-teaching",
+      "title": "面向智能体设计的实验教学探索",
+      "filename": "agent-design-teaching.webp",
+      "scenePrompt": "Lively editorial photograph of FOUR East Asian adult university students in a real design classroom testing a conversational agent prototype. One student actively speaks to a laptop microphone while another observes and writes on a paper evaluation sheet; the other two discuss hand-drawn interaction cards spread on the desk. Faces, hands and physical artifacts are the focus. A normal laptop displays a modest chat interface, a pinboard with a few colored cards behind them. Candid side-angle medium-wide composition, practical classroom furniture, navy, cream and muted yellow clothing, bright window daylight, realistic research-led teaching. No futuristic classroom, no projected data in the air.",
+      "productReference": null
+    }
+  ]
+}

@@ -3338,5 +3338,594 @@
     "originalWidth": 1000,
     "originalHeight": 1500,
     "originalBytes": 287091
+  },
+  "assets/research-center/covers-20261117/triadic-embodied-feedback.webp": {
+    "src": "assets/research-center/optimized/triadic-embodied-feedback.b19a70d47112.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 41936,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/triadic-embodied-feedback.b19a70d47112.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 17504
+      },
+      {
+        "src": "assets/research-center/optimized/triadic-embodied-feedback.b19a70d47112.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 41936
+      },
+      {
+        "src": "assets/research-center/optimized/triadic-embodied-feedback.b19a70d47112.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 73770
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/triadic-embodied-feedback.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 138786
+  },
+  "assets/research-center/covers-20261117/project-01.webp": {
+    "src": "assets/research-center/optimized/project-01.970c4626375d.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 46888,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/project-01.970c4626375d.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 18520
+      },
+      {
+        "src": "assets/research-center/optimized/project-01.970c4626375d.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 46888
+      },
+      {
+        "src": "assets/research-center/optimized/project-01.970c4626375d.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 84654
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/project-01.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 159758
+  },
+  "assets/research-center/covers-20261117/project-02.webp": {
+    "src": "assets/research-center/optimized/project-02.5d16118bcd00.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 69036,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/project-02.5d16118bcd00.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 22846
+      },
+      {
+        "src": "assets/research-center/optimized/project-02.5d16118bcd00.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 69036
+      },
+      {
+        "src": "assets/research-center/optimized/project-02.5d16118bcd00.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 140746
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/project-02.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 256764
+  },
+  "assets/research-center/covers-20261117/project-03.webp": {
+    "src": "assets/research-center/optimized/project-03.3d5045e6e847.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 82046,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/project-03.3d5045e6e847.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 26060
+      },
+      {
+        "src": "assets/research-center/optimized/project-03.3d5045e6e847.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 82046
+      },
+      {
+        "src": "assets/research-center/optimized/project-03.3d5045e6e847.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 162570
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/project-03.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 294218
+  },
+  "assets/research-center/covers-20261117/driving-agent-emotion.webp": {
+    "src": "assets/research-center/optimized/driving-agent-emotion.0e0875b90fcc.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 57250,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/driving-agent-emotion.0e0875b90fcc.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 20712
+      },
+      {
+        "src": "assets/research-center/optimized/driving-agent-emotion.0e0875b90fcc.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 57250
+      },
+      {
+        "src": "assets/research-center/optimized/driving-agent-emotion.0e0875b90fcc.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 103602
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/driving-agent-emotion.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 187306
+  },
+  "assets/research-center/covers-20261117/project-05.webp": {
+    "src": "assets/research-center/optimized/project-05.45b0bf0f9db1.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 50530,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/project-05.45b0bf0f9db1.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 21176
+      },
+      {
+        "src": "assets/research-center/optimized/project-05.45b0bf0f9db1.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 50530
+      },
+      {
+        "src": "assets/research-center/optimized/project-05.45b0bf0f9db1.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 90718
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/project-05.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 166452
+  },
+  "assets/research-center/covers-20261117/privacy-in-motion.webp": {
+    "src": "assets/research-center/optimized/privacy-in-motion.8be1012bd220.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 75646,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/privacy-in-motion.8be1012bd220.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 27286
+      },
+      {
+        "src": "assets/research-center/optimized/privacy-in-motion.8be1012bd220.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 75646
+      },
+      {
+        "src": "assets/research-center/optimized/privacy-in-motion.8be1012bd220.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 142518
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/privacy-in-motion.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 268012
+  },
+  "assets/research-center/covers-20261117/ai-co-speculation.webp": {
+    "src": "assets/research-center/optimized/ai-co-speculation.533317147f6d.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 59816,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/ai-co-speculation.533317147f6d.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 24808
+      },
+      {
+        "src": "assets/research-center/optimized/ai-co-speculation.533317147f6d.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 59816
+      },
+      {
+        "src": "assets/research-center/optimized/ai-co-speculation.533317147f6d.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 106606
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/ai-co-speculation.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 192680
+  },
+  "assets/research-center/covers-20261117/adhd-inclusive.webp": {
+    "src": "assets/research-center/optimized/adhd-inclusive.a255f636a7e8.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 63722,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/adhd-inclusive.a255f636a7e8.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 23200
+      },
+      {
+        "src": "assets/research-center/optimized/adhd-inclusive.a255f636a7e8.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 63722
+      },
+      {
+        "src": "assets/research-center/optimized/adhd-inclusive.a255f636a7e8.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 124846
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/adhd-inclusive.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 236548
+  },
+  "assets/research-center/covers-20261117/ar-science-books.webp": {
+    "src": "assets/research-center/optimized/ar-science-books.751f278effd0.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 78948,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/ar-science-books.751f278effd0.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 28698
+      },
+      {
+        "src": "assets/research-center/optimized/ar-science-books.751f278effd0.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 78948
+      },
+      {
+        "src": "assets/research-center/optimized/ar-science-books.751f278effd0.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 154518
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/ar-science-books.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 286440
+  },
+  "assets/research-center/covers-20261117/peephole-wayfinding.webp": {
+    "src": "assets/research-center/optimized/peephole-wayfinding.938ea3635ef6.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 72978,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/peephole-wayfinding.938ea3635ef6.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 28308
+      },
+      {
+        "src": "assets/research-center/optimized/peephole-wayfinding.938ea3635ef6.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 72978
+      },
+      {
+        "src": "assets/research-center/optimized/peephole-wayfinding.938ea3635ef6.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 130252
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/peephole-wayfinding.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 246624
+  },
+  "assets/research-center/covers-20261117/family-cai-education.webp": {
+    "src": "assets/research-center/optimized/family-cai-education.c8ba5af90e1d.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 60602,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/family-cai-education.c8ba5af90e1d.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 23504
+      },
+      {
+        "src": "assets/research-center/optimized/family-cai-education.c8ba5af90e1d.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 60602
+      },
+      {
+        "src": "assets/research-center/optimized/family-cai-education.c8ba5af90e1d.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 110506
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/family-cai-education.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 210844
+  },
+  "assets/research-center/covers-20261117/smartaste.webp": {
+    "src": "assets/research-center/optimized/smartaste.c5d599c4d0a8.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 65598,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/smartaste.c5d599c4d0a8.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 26540
+      },
+      {
+        "src": "assets/research-center/optimized/smartaste.c5d599c4d0a8.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 65598
+      },
+      {
+        "src": "assets/research-center/optimized/smartaste.c5d599c4d0a8.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 115824
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/smartaste.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 213570
+  },
+  "assets/research-center/covers-20261117/bizika.webp": {
+    "src": "assets/research-center/optimized/bizika.d05965a5a18e.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 58508,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/bizika.d05965a5a18e.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 22346
+      },
+      {
+        "src": "assets/research-center/optimized/bizika.d05965a5a18e.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 58508
+      },
+      {
+        "src": "assets/research-center/optimized/bizika.d05965a5a18e.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 114922
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/bizika.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 211192
+  },
+  "assets/research-center/covers-20261117/wudu-service.webp": {
+    "src": "assets/research-center/optimized/wudu-service.a672b248e698.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 71494,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/wudu-service.a672b248e698.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 27356
+      },
+      {
+        "src": "assets/research-center/optimized/wudu-service.a672b248e698.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 71494
+      },
+      {
+        "src": "assets/research-center/optimized/wudu-service.a672b248e698.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 128834
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/wudu-service.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 253968
+  },
+  "assets/research-center/covers-20261117/soma.webp": {
+    "src": "assets/research-center/optimized/soma.52208b162a8e.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 53730,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/soma.52208b162a8e.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 20204
+      },
+      {
+        "src": "assets/research-center/optimized/soma.52208b162a8e.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 53730
+      },
+      {
+        "src": "assets/research-center/optimized/soma.52208b162a8e.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 105992
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/soma.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 196766
+  },
+  "assets/research-center/covers-20261117/neurobridge.webp": {
+    "src": "assets/research-center/optimized/neurobridge.eed4d206da38.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 46512,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/neurobridge.eed4d206da38.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 19180
+      },
+      {
+        "src": "assets/research-center/optimized/neurobridge.eed4d206da38.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 46512
+      },
+      {
+        "src": "assets/research-center/optimized/neurobridge.eed4d206da38.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 84794
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/neurobridge.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 164448
+  },
+  "assets/research-center/covers-20261117/more-than-human.webp": {
+    "src": "assets/research-center/optimized/more-than-human.806853656e11.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 134898,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/more-than-human.806853656e11.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 43134
+      },
+      {
+        "src": "assets/research-center/optimized/more-than-human.806853656e11.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 134898
+      },
+      {
+        "src": "assets/research-center/optimized/more-than-human.806853656e11.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 262568
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/more-than-human.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 431588
+  },
+  "assets/research-center/covers-20261117/agent-design-teaching.webp": {
+    "src": "assets/research-center/optimized/agent-design-teaching.42629030906f.960w.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 65054,
+    "srcset": [
+      {
+        "src": "assets/research-center/optimized/agent-design-teaching.42629030906f.480w.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 25420
+      },
+      {
+        "src": "assets/research-center/optimized/agent-design-teaching.42629030906f.960w.webp",
+        "width": 960,
+        "height": 640,
+        "bytes": 65054
+      },
+      {
+        "src": "assets/research-center/optimized/agent-design-teaching.42629030906f.1536w.webp",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 116624
+      }
+    ],
+    "kind": "photo",
+    "originalSrc": "assets/research-center/covers-20261117/agent-design-teaching.webp",
+    "originalWidth": 1536,
+    "originalHeight": 1024,
+    "originalBytes": 218238
   }
 }

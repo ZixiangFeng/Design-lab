@@ -8,12 +8,14 @@
   const topics = (data.topics || []).map(p => ({...p,isTopic:true}));
   const all = [...projects,...directions,...topics];
   const byId = new Map(all.map(p => [p.id,p]));
+  const coverPositions = new Map(all.map(p => [p.cover,p.coverPosition || 'center']));
   const badge = p => `<span class="status-pill status-${escape(p.status || 'direction')}">${escape(p.statusText)}</span>`;
   const image = (src,alt,cls='',options={}) => {
     const preview=window.RESEARCH_IMAGES?.[src];
     const size=preview?[preview.width,preview.height]:data.imageSizes?.[src];
     const sizes=options.sizes || '(max-width: 700px) 92vw, (max-width: 1100px) 44vw, 580px';
-    return `<img class="${escape(cls)}" src="${escape(preview?.src||src)}" alt="${escape(alt)}" ${preview?`srcset="${escape(preview.srcset)}" sizes="${escape(sizes)}"`:''} ${size?`width="${size[0]}" height="${size[1]}"`:''} loading="${options.eager?'eager':'lazy'}" decoding="async" ${options.eager?'fetchpriority="high"':''} ${options.position?`style="object-position:${escape(options.position)}"`:''} />`;
+    const position=options.position || coverPositions.get(src);
+    return `<img class="${escape(cls)}" src="${escape(preview?.src||src)}" alt="${escape(alt)}" ${preview?`srcset="${escape(preview.srcset)}" sizes="${escape(sizes)}"`:''} ${size?`width="${size[0]}" height="${size[1]}"`:''} loading="${options.eager?'eager':'lazy'}" decoding="async" ${options.eager?'fetchpriority="high"':''} ${position?`style="object-position:${escape(position)}"`:''} />`;
   };
   window.researchImage=image;
   const credit = p => p.coverCredit ? `<span class="visual-credit">${escape(p.coverCredit)}</span>` : '';
