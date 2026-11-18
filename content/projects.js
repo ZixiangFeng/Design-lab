@@ -593,11 +593,11 @@ window.RESEARCH_CENTER = {
       "summary": "通过 48 人、四组条件的模拟驾驶实验，比较相同中性语音下的纯语音与具身助手，分析用户初始情绪、呈现方式与驾驶后情绪变化的关系。",
       "lead": "同样一句车载语音提示，为什么会带来不同的情感体验？我们把驾驶者的初始情绪与智能体的呈现方式放在一起考察，研究可见形象如何参与用户对中性提示的理解，以及这种交互与任务表现和情绪变化的关系。",
       "color": "#cfcbff",
-      "cover": "assets/research-center/covers-v2-20261118/driving-agent-emotion.webp",
-      "detailCover": "assets/research-center/covers-v2-20261118/driving-agent-emotion.webp",
-      "coverAlt": "银发使用者在驾驶模拟器中与具身车载助手互动 · AI 场景示意",
+      "cover": "assets/research-center/covers-v2-20261118/driving-agent-emotion-lab.webp",
+      "detailCover": "assets/research-center/covers-v2-20261118/driving-agent-emotion-lab.webp",
+      "coverAlt": "年轻驾驶者操作三屏驾驶模拟器，右侧平板显示虚拟助手 · AI 场景示意",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "50% 48%",
+      "coverPosition": "42% 46%",
       "meta": [
         {
           "label": "参与者",
@@ -798,7 +798,7 @@ window.RESEARCH_CENTER = {
           ]
         }
       ],
-      "detailCoverAlt": "银发使用者在驾驶模拟器中与具身车载助手互动 · AI 场景示意"
+      "detailCoverAlt": "年轻驾驶者操作三屏驾驶模拟器，右侧平板显示虚拟助手 · AI 场景示意"
     },
     {
       "id": "project-05",
@@ -2463,7 +2463,7 @@ window.RESEARCH_CENTER = {
       "summary": "围绕驾驶智能体与用户情感，结合车载语音、空间能力和认知负荷研究，探索如何让座舱交互适应用户状态与道路任务。",
       "lead": "驾驶中的智能体既传递信息，也影响情绪体验。我们从三个相互关联的问题展开研究：具身呈现如何与用户情绪共同作用，语音信息量如何匹配任务负荷，小屏地图如何支持空间理解。",
       "symbol": "MOVE",
-      "cover": "assets/research-center/covers-v2-20261118/driving-agent-emotion.webp",
+      "cover": "assets/research-center/covers-v2-20261118/driving-agent-emotion-lab.webp",
       "keywords": [
         "驾驶智能体",
         "用户情绪",
@@ -2587,7 +2587,7 @@ window.RESEARCH_CENTER = {
         "project-05",
         "peephole-wayfinding"
       ],
-      "coverAlt": "银发使用者在驾驶模拟器中与具身车载助手互动 · AI 场景示意",
+      "coverAlt": "年轻驾驶者操作三屏驾驶模拟器，右侧平板显示虚拟助手 · AI 场景示意",
       "coverCredit": "AI 场景示意",
       "exploreGroups": [
         {
@@ -2604,9 +2604,9 @@ window.RESEARCH_CENTER = {
           ]
         }
       ],
-      "detailCover": "assets/research-center/covers-v2-20261118/driving-agent-emotion.webp",
-      "detailCoverAlt": "银发使用者在驾驶模拟器中与具身车载助手互动 · AI 场景示意",
-      "coverPosition": "50% 48%"
+      "detailCover": "assets/research-center/covers-v2-20261118/driving-agent-emotion-lab.webp",
+      "detailCoverAlt": "年轻驾驶者操作三屏驾驶模拟器，右侧平板显示虚拟助手 · AI 场景示意",
+      "coverPosition": "42% 46%"
     },
     {
       "id": "direction-home",
@@ -3685,10 +3685,6 @@ window.RESEARCH_CENTER = {
       1536,
       1024
     ],
-    "assets/research-center/covers-v2-20261118/driving-agent-emotion.webp": [
-      1600,
-      900
-    ],
     "assets/research-center/covers-v2-20261118/project-05.webp": [
       1600,
       900
@@ -3742,6 +3738,10 @@ window.RESEARCH_CENTER = {
       900
     ],
     "assets/research-center/covers-v2-20261118/agent-design-teaching.webp": [
+      1600,
+      900
+    ],
+    "assets/research-center/covers-v2-20261118/driving-agent-emotion-lab.webp": [
       1600,
       900
     ]

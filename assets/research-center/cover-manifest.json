@@ -114,22 +114,22 @@
         "avif": "assets/research-center/optimized/mixed-bizika.75b6c5352500.hero.960w.avif 960w, assets/research-center/optimized/mixed-bizika.75b6c5352500.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-bizika.75b6c5352500.hero.1600w.avif 1600w"
       }
     },
-    "assets/research-center/covers-v2-20261118/driving-agent-emotion.webp": {
-      "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADQAwCdASoYAA4AP1WSv1YxqiajsAgCMCqJQAAH7AxTXWZUcjb4AAAA/qKZPyyKA4aT0ElY4V7qp0K0lXXfYA6ZLLOytfEP/3efzB1E+QvT98CjsQiRUG5yIrw+oAInHttaf3gUG54h3w8sFfwZbwLdml5T/S3xjw6IgAAA",
-      "color": "#42454b",
+    "assets/research-center/covers-v2-20261118/driving-agent-emotion-lab.webp": {
+      "placeholder": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwAwCdASoYAA4AP1WQv1WxqaajMAgCMCqJYwDA3YvWmrGX+Uu7ZzhAAPhCYsxB89HavTPImu2+m32EYTG6EyqWWCDIIjYvLWUndbNQN/2Wk39TjFaILxc5N4O6Teo8mFeEw6+/Uf0JdpM2teeIukIAAAA=",
+      "color": "#635f5c",
       "card": {
-        "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.480w.webp",
+        "src": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.480w.webp",
         "width": 480,
         "height": 270,
-        "webp": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.320w.webp 320w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.480w.webp 480w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.640w.webp 640w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.960w.webp 960w",
-        "avif": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.320w.avif 320w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.480w.avif 480w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.640w.avif 640w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.960w.avif 960w"
+        "webp": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.320w.webp 320w, assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.480w.webp 480w, assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.640w.webp 640w, assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.320w.avif 320w, assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.480w.avif 480w, assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.640w.avif 640w, assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.960w.avif 960w"
       },
       "hero": {
-        "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1280w.webp",
+        "src": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.hero.1280w.webp",
         "width": 1280,
         "height": 720,
-        "webp": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.960w.webp 960w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1600w.webp 1600w",
-        "avif": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.960w.avif 960w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1600w.avif 1600w"
+        "webp": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.hero.960w.webp 960w, assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.hero.960w.avif 960w, assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.hero.1600w.avif 1600w"
       }
     },
     "assets/research-center/covers-v2-20261118/family-cai-education.webp": {
@@ -929,116 +929,116 @@
       "bytes": 96048
     },
     {
-      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.320w.avif",
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.320w.avif",
       "role": "card",
       "format": "avif",
       "width": 320,
       "height": 180,
-      "bytes": 4793
+      "bytes": 5144
     },
     {
-      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.320w.webp",
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.320w.webp",
       "role": "card",
       "format": "webp",
       "width": 320,
       "height": 180,
-      "bytes": 7806
+      "bytes": 8172
     },
     {
-      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.480w.avif",
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.480w.avif",
       "role": "card",
       "format": "avif",
       "width": 480,
       "height": 270,
-      "bytes": 7518
+      "bytes": 8652
     },
     {
-      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.480w.webp",
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.480w.webp",
       "role": "card",
       "format": "webp",
       "width": 480,
       "height": 270,
-      "bytes": 13510
+      "bytes": 14646
     },
     {
-      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.640w.avif",
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.640w.avif",
       "role": "card",
       "format": "avif",
       "width": 640,
       "height": 360,
-      "bytes": 10508
+      "bytes": 12227
     },
     {
-      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.640w.webp",
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.640w.webp",
       "role": "card",
       "format": "webp",
       "width": 640,
       "height": 360,
-      "bytes": 19988
+      "bytes": 22162
     },
     {
-      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.960w.avif",
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.960w.avif",
       "role": "card",
       "format": "avif",
       "width": 960,
       "height": 540,
-      "bytes": 17258
+      "bytes": 20294
     },
     {
-      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.960w.webp",
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.card.960w.webp",
       "role": "card",
       "format": "webp",
       "width": 960,
       "height": 540,
-      "bytes": 35092
+      "bytes": 38710
     },
     {
-      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.960w.avif",
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.hero.960w.avif",
       "role": "hero",
       "format": "avif",
       "width": 960,
       "height": 540,
-      "bytes": 24219
+      "bytes": 27066
     },
     {
-      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.960w.webp",
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.hero.960w.webp",
       "role": "hero",
       "format": "webp",
       "width": 960,
       "height": 540,
-      "bytes": 45870
+      "bytes": 48120
     },
     {
-      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1280w.avif",
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.hero.1280w.avif",
       "role": "hero",
       "format": "avif",
       "width": 1280,
       "height": 720,
-      "bytes": 35954
+      "bytes": 37494
     },
     {
-      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1280w.webp",
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.hero.1280w.webp",
       "role": "hero",
       "format": "webp",
       "width": 1280,
       "height": 720,
-      "bytes": 68372
+      "bytes": 69556
     },
     {
-      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1600w.avif",
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.hero.1600w.avif",
       "role": "hero",
       "format": "avif",
       "width": 1600,
       "height": 900,
-      "bytes": 48339
+      "bytes": 48302
     },
     {
-      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1600w.webp",
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion-lab.43ec99d44d0a.hero.1600w.webp",
       "role": "hero",
       "format": "webp",
       "width": 1600,
       "height": 900,
-      "bytes": 91800
+      "bytes": 90474
     },
     {
       "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.320w.avif",
