@@ -205,6 +205,19 @@ def build_report(manifest: dict) -> dict:
     }
 
 
+def write_browser_metadata(manifest: dict) -> None:
+    """Keep separately optimized cover roles when rebuilding other imagery."""
+    browser = {key: {"src": entry["src"], "width": entry["width"],
+                     "height": entry["height"],
+                     "srcset": ", ".join(f'{v["src"]} {v["width"]}w' for v in entry["srcset"])}
+               for key, entry in manifest.items()}
+    code = "window.RESEARCH_IMAGES=" + json.dumps(browser, ensure_ascii=False, separators=(",", ":")) + ";\n"
+    covers = ROOT / "assets/research-center/cover-manifest.json"
+    if covers.exists():
+        code += "window.RESEARCH_COVERS=" + json.dumps(json.loads(covers.read_text())["images"], ensure_ascii=False, separators=(",", ":")) + ";\n"
+    (ROOT / "assets/research-center/image-sources.js").write_text(code)
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--report", type=Path, default=Path("/tmp/research-image-optimization-report.json"))
@@ -230,13 +243,8 @@ def main() -> None:
             html = html.replace(old, new)
         page.write_text(html)
     MANIFEST.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n")
-    # Keep browser metadata compact; full provenance stays in the JSON manifest.
-    browser = {key: {"src": entry["src"], "width": entry["width"],
-                     "height": entry["height"],
-                     "srcset": ", ".join(f'{v["src"]} {v["width"]}w' for v in entry["srcset"])}
-               for key, entry in manifest.items()}
-    (ROOT / "assets/research-center/image-sources.js").write_text(
-        "window.RESEARCH_IMAGES=" + json.dumps(browser, ensure_ascii=False, separators=(",", ":")) + ";\n")
+    # Keep browser metadata compact; full provenance stays in the JSON manifests.
+    write_browser_metadata(manifest)
     report = build_report(manifest)
     args.report.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n")
     print(json.dumps({k: v for k, v in report.items() if k != "images"}, indent=2))

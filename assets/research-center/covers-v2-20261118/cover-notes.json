@@ -1,0 +1,94 @@
+{
+  "method": "built-in image_gen",
+  "common": "Create one individual horizontal 16:9 research-project website cover. Compose for a wide thumbnail with the key subject inside a central crop-safe area. This is an AI scenario/concept illustration, not evidence of a real study. No text overlay, no logos, no watermark, no collage. Any device UI stays on a physical screen, with abstract simple shapes instead of small illegible writing. People, when included, are fictional. Follow this image's own medium, lighting, subject and palette; do not reuse a common person, room or photographic template from previous images.\n",
+  "jobs": [
+    {
+      "id": "triadic-embodied-feedback",
+      "category": "科幻概念",
+      "scene": "Use case: stylized-concept. A sophisticated computational-media research visualization on a deep midnight-blue background: a life-size translucent virtual HUMAN FACE in three-quarter profile constructed from fine silver spatial mesh, interacting with three small sculptural modules representing expression, voice and timing. One module has a delicate warm amber waveform illuminated inside frosted glass; a second is a small array of matte white movable discs; a third a quiet dotted rhythm. The face is a VIRTUAL AGENT, not an actual person. Restrained scientific editorial art direction, precise material rendering, selective cool light, spatial depth and ample dark negative space. Beautiful and plausible contemporary digital art, no purple ribbons, no planets, no city, no busy HUD, no chrome robot."
+    },
+    {
+      "id": "project-01",
+      "category": "人物场景",
+      "scene": "Use case: photorealistic-natural. Intimate candid photograph of a WHITE adult woman in her early forties, short wavy light-brown hair and visible freckles, thoughtfully listening to a supportive conversation through a single discreet earbud while looking at her smartphone. She is sitting beside a large rain-speckled apartment window with an ordinary wool blanket, camera tight on her face, hand and phone, side profile. Cool soft overcast daylight and subdued blue-gray clothing, human vulnerability with a calm reflective expression, no exaggerated sadness. The phone has a plain conversation interface. Authentic magazine portrait photography, 50mm lens, real skin texture. No smiling stock-photo pose, no beige sunlit wood-table scene, no glowing effects."
+    },
+    {
+      "id": "project-02",
+      "category": "手部局部",
+      "scene": "Use case: photorealistic-natural. A crisp TOP-DOWN close-up photograph of a BLACK adult user's hands customizing a virtual companion on a tablet on a pale mint research desk. Only the hands and a little of the forearms are visible, NO FACES or whole bodies. Tablet screen has three small clearly different flat avatar portraits and large simple preference controls, with almost no writing. One index finger is selecting an avatar. A few physical round color swatches and a mechanical pencil next to the screen, generous clean negative space. Bright even studio light, graphic geometric composition, tactile touch interaction, sharply resolved dark skin and matte glass. Contemporary interaction-design editorial, no warm living-room window background."
+    },
+    {
+      "id": "driving-agent-emotion",
+      "category": "人物场景",
+      "scene": "Use case: photorealistic-natural. Wide candid research-demo photograph of a WHITE male driver in his late fifties with short silver hair and thin-rim glasses seated at a believable fixed-base driving simulator, seen from a front passenger-side three-quarter angle. His hands hold the wheel naturally, his attentive face clearly visible. A physical wide road monitor is ahead and a separate small dashboard display shows an understated virtual assistant face. The modest lab has dark acoustic wall panels, practical equipment and neutral cool lighting, with a warm orange seat accent. This is a simulator, not a moving car. Rich contrast, realistic ordinary clothes and equipment, no flying interface. Distinct composition from the other driving cover."
+    },
+    {
+      "id": "project-05",
+      "category": "无人设备局部",
+      "scene": "Use case: product-mockup. A cinematic CLOSE-UP editorial photograph of a practical driving-simulator steering wheel, the perforated speaker grille immediately beside it, and a small physical navigation display with a simple route arrow. NO PEOPLE and NO HANDS. The wheel rim is partly cropped as a strong foreground curve; the grille material and sound-control knob are tack sharp. Through depth of field, a normal road simulation is visible on a large monitor in the background. Dark graphite, muted red dashboard detail and soft cool light, realistic worn plastic and stitched leather. The topic is spoken navigation and cognitive load, communicated through actual devices. Not a futuristic cockpit, no floating waveforms, no labels."
+    },
+    {
+      "id": "ai-co-speculation",
+      "category": "工作台局部",
+      "scene": "Use case: photorealistic-natural. Energetic OVERHEAD editorial photograph of a design workbench during a co-speculative workshop. NO FACES or whole people. Three participants' hands enter naturally from three different edges: one light-skinned hand holds a rough pencil concept drawing, one dark-skinned hand moves a crude blue foam prototype, one medium-brown hand compares a print of a subtly mismatched generated design. A corner of an ordinary open laptop, cutting mat, torn paper, colored marker and imperfect cardboard forms make the design friction visible. Direct neutral workshop light, bold terracotta and cobalt material accents on light gray, dynamic asymmetrical composition. No plants or cozy living-room furniture, no sci-fi holograms."
+    },
+    {
+      "id": "adhd-inclusive",
+      "category": "无人静物",
+      "scene": "Use case: product-mockup. A precise still-life photograph of a tactile cognitive-support toolkit, viewed obliquely from above on a deep indigo desktop: one simple white analog visual timer with a single solid coral time sector, three large softly colored task cards with simple drawn pictograms, and a small modular tray containing two wooden activity tokens. NO PEOPLE, NO HANDS, NO FACES. One token is outside the tray, suggesting an action in progress. Soft directional studio light casts gentle geometric shadows. Restrained editorial object photography, close material detail, useful design objects rather than medical imagery, crisp warm-white, coral and blue contrast. No pills, no brain illustration, no small labels."
+    },
+    {
+      "id": "ar-science-books",
+      "category": "人物场景",
+      "scene": "Use case: photorealistic-natural. A BLACK father in his thirties and his BLACK daughter aged about eight exploring an illustrated science book with a tablet in a bright public-library reading corner. The child is delighted and curious, the father listens and points to the book. Camera low at table height, book and tablet prominent in the foreground, their faces clearly visible behind. On the TABLET SCREEN ONLY a small virtual dinosaur appears anchored to the physical page through its camera view; the room itself remains ordinary. Crisp high-key daylight, cyan library furniture and the child's vivid yellow top, modern documentary education photography. Natural body language, no floating creature outside the device, no staged thumbs-up."
+    },
+    {
+      "id": "peephole-wayfinding",
+      "category": "第一人称局部",
+      "scene": "Use case: photorealistic-natural. First-person urban wayfinding photograph at early blue hour: a medium-brown hand in the foreground holds a smartphone showing a simple clean street map with a route, while the actual pedestrian junction and illuminated building entrances are in the background. NO FACE and NO FULL PERSON in the foreground. A few anonymous distant walkers may provide scale. The phone is part of a lived-in real setting, not a screen mockup floating on white. Camera at walking eye height, sharp phone edges and hand, soft cinematic city depth, slate blue with small warm light accents. The map exists only inside the screen, no AR route projected on the street."
+    },
+    {
+      "id": "family-cai-education",
+      "category": "人物场景",
+      "scene": "Use case: photorealistic-natural. Candid editorial photograph of a SOUTH ASIAN father and his ten-year-old daughter discussing a homework problem with a conversational AI tutor on a laptop in a bright, modest contemporary apartment. The daughter leans toward her paper exercise book while asking a question; the father looks thoughtfully between the book and the laptop, supporting rather than directing. A mug and two pencils, no clutter. Three-quarter medium composition, faces and active hands visible, white and sage-green room with a dark red shirt accent, even morning daylight. Plain simple tutoring chat on the physical screen only. No beige moody laboratory setup, no futuristic robot, no cultural costume stereotypes."
+    },
+    {
+      "id": "smartaste",
+      "category": "无人服务静物",
+      "scene": "Use case: photorealistic-natural. Graphic TOP-DOWN editorial service-design photograph on a clean sunny-yellow cafeteria tray: an appetizing reusable green meal bowl filled with grains, colorful vegetables and a protein portion; neatly placed steel cutlery; a smartphone beside it with a very simple meal recommendation and feedback interface. NO PEOPLE, NO HANDS, NO FACES. The objects form a confident asymmetric diagonal composition with substantial negative space. Bright natural food color, crisp daylight shadows, practical matte materials, an ordinary office cafeteria tabletop visible only at an edge. Realistic food and device scale, no overlaid nutrition infographics, no huge text, no robot chef."
+    },
+    {
+      "id": "bizika",
+      "category": "产品特写",
+      "ref": "bizika-1.webp",
+      "scene": "Use case: product-mockup. Input image is PRODUCT DESIGN REFERENCE ONLY, not a layout to reproduce. A new premium but tactile CLOSE-UP photograph of the Bìzīkǎ speaker, with no people or hands. Preserve the distinctive product: brushed silver twisting upper body and a hollow lower loop wrapped in dark indigo woven textile with red-orange Xilankapu geometric patterns, on a small round metal base. Frame a rich three-quarter detail that shows the junction between the metal twist and patterned fabric, with enough of the hollow loop and top to recognize the object. Off-white plaster background, strong raking side light, crisp textile weave, soft brushed-metal reflections. Editorial craft-and-industrial-design photography, not an advertising poster. No text from the reference, no decorative lantern."
+    },
+    {
+      "id": "soma",
+      "category": "原型手部局部",
+      "ref": "soma-1.webp",
+      "scene": "Use case: photorealistic-natural. Input image is PRODUCT FORM REFERENCE ONLY: use the real physical soft-robot photos at the right, ignore all diagrams and text. NEW macro research-workbench photograph, no faces or whole people. Two light-skinned hands gently test one translucent silicone pneumatic petal on a rounded white core, the prototype's five curved segmented soft lobes visible. A clear air tube and a small practical pressure valve lead across the work surface; only a small part of the control board appears out of focus. Tight low camera angle on the elastic silicone deforming under a fingertip, neutral gray seamless workbench, clinical-clean material study with soft turquoise transmitted light. Real prototype texture, not a cartoon octopus, no medical procedure, no hospital, no diagnostic claims."
+    },
+    {
+      "id": "neurobridge",
+      "category": "科幻产品概念",
+      "ref": "neurobridge-1.webp",
+      "scene": "Use case: stylized-concept. Input image is an external-device FORM REFERENCE ONLY. A refined speculative-design studio render of a compact matte light-gray EAR-HOOK knowledge-interface concept with lime-green inserts, shown in three floating separated external components along a gentle diagonal above a charcoal plinth. NO HUMAN HEAD, NO PEOPLE, NO HANDS. Preserve the curved ear hook, the small behind-ear module and removable small green insets from the reference; clearly a wearable external device, not an implant. Sophisticated controlled futuristic atmosphere: black background, one thin pale-green volumetric light plane revealing the components, precise soft shadows and realistic material detail. An authored design-futures visual, deliberately more speculative than the documentary covers. No diagram labels, no skull, no brain, no decorative neon ribbons."
+    },
+    {
+      "id": "more-than-human",
+      "category": "动物局部",
+      "scene": "Use case: photorealistic-natural. An intimate MACRO documentary photograph from a dog's sensory point of view: the textured wet nose and whiskered muzzle of a mixed-breed dog entering from the left, sniffing actual dew-covered grasses, tiny leaves and rough tree bark at very close range. No people, no owner, no human hands, no collar as the main subject. Camera at ground level with shallow but credible depth of field; nose and nearest leaf tack sharp, green and warm brown background. Morning backlight catches water drops, perceptual richness and animal agency. A completely different scale from a human-and-dog walking photo. No scent-cloud graphics, no holograms, no glowing dog."
+    },
+    {
+      "id": "agent-design-teaching",
+      "category": "多元团队场景",
+      "scene": "Use case: photorealistic-natural. Authentic lively photograph of a culturally DIVERSE group of FOUR adult university design students in an ordinary interaction-design classroom: a WHITE woman with short red hair, a BLACK man, a SOUTH ASIAN woman and an EAST ASIAN man. They are collaboratively testing a plain laptop chat-agent prototype; one student speaks into a small desk microphone, another logs observations on paper, the other two discuss interaction cards. All are active peers with natural varied expressions, ordinary casual clothes. Camera medium-wide from the end of the table, a green chalkboard and scattered foam models in the background. Clear cool daylight, cobalt and mustard accents, practical classroom furniture. No generic beige apartment, no futuristic classroom, no floating UI."
+    }
+  ],
+  "retainedImages": [
+    "project-03",
+    "privacy-in-motion",
+    "wudu-service"
+  ]
+}

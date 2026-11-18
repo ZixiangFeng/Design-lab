@@ -11,6 +11,15 @@
   const coverPositions = new Map(all.map(p => [p.cover,p.coverPosition || 'center']));
   const badge = p => `<span class="status-pill status-${escape(p.status || 'direction')}">${escape(p.statusText)}</span>`;
   const image = (src,alt,cls='',options={}) => {
+    const cover=window.RESEARCH_COVERS?.[src];
+    if(cover){
+      const rendition=cls==='detail-cover'?cover.hero:cover.card;
+      const sizes=options.sizes || '(max-width:700px) 92vw, 580px';
+      const position=options.position || coverPositions.get(src) || 'center';
+      const eager=Boolean(options.eager);
+      const priority=options.priority || (eager?'high':'auto');
+      return `<picture class="cover-picture" data-cover-state="${eager?'active':'pending'}" style="background-color:${escape(cover.color)}"><source type="image/avif" ${eager?'srcset':'data-srcset'}="${escape(rendition.avif)}" sizes="${escape(sizes)}"><img class="${escape(cls)}" src="${escape(eager?rendition.src:cover.placeholder)}" ${eager?'srcset':'data-srcset'}="${escape(rendition.webp)}" ${eager?'':`data-src="${escape(rendition.src)}"`} sizes="${escape(sizes)}" width="${rendition.width}" height="${rendition.height}" alt="${escape(alt)}" loading="${eager?'eager':'lazy'}" fetchpriority="${priority}" decoding="async" style="object-position:${escape(position)}" /></picture>`;
+    }
     const preview=window.RESEARCH_IMAGES?.[src];
     const size=preview?[preview.width,preview.height]:data.imageSizes?.[src];
     const sizes=options.sizes || '(max-width: 700px) 92vw, (max-width: 1100px) 44vw, 580px';
@@ -18,9 +27,10 @@
     return `<img class="${escape(cls)}" src="${escape(preview?.src||src)}" alt="${escape(alt)}" ${preview?`srcset="${escape(preview.srcset)}" sizes="${escape(sizes)}"`:''} ${size?`width="${size[0]}" height="${size[1]}"`:''} loading="${options.eager?'eager':'lazy'}" decoding="async" ${options.eager?'fetchpriority="high"':''} ${position?`style="object-position:${escape(position)}"`:''} />`;
   };
   window.researchImage=image;
+  const cardSizes=(compact,i)=>compact?'(max-width:900px) calc(100vw - 44px), (max-width:1336px) calc(33.333vw - 48px), 398px':`(max-width:620px) calc(100vw - 44px), (max-width:1099px) calc(50vw - 40px), (max-width:1336px) ${i===0?'calc(58.333vw - 67px)':i===1?'calc(41.667vw - 55px)':'calc(50vw - 61px)'}, ${i===0?'713px':i===1?'502px':'607px'}`;
   const credit = p => p.coverCredit ? `<span class="visual-credit">${escape(p.coverCredit)}</span>` : '';
   const link = l => `<a href="${escape(l.url)}" ${l.url.startsWith('http')?'target="_blank" rel="noopener"':''}>${escape(l.label)} <span aria-hidden="true">↗</span></a>`;
-  const cards = (items,compact=false) => items.map((p,i) => `<a class="work-card ${compact?'work-card--compact':''} ${!compact&&i===0?'work-card--featured':''}" href="#${escape(p.id)}" data-project-id="${escape(p.id)}" style="--work-accent:${escape(p.color || '#cfcbff')}"><div class="work-card-media">${image(p.cover,p.coverAlt || p.title,'',{sizes:compact?'(max-width: 900px) 92vw, (max-width: 1400px) 30vw, 440px':'(max-width: 620px) 92vw, (max-width: 1400px) 50vw, 700px'})}<span class="work-card-number">${escape(p.code)}</span>${credit(p)}</div><div class="work-card-copy"><div class="work-card-meta"><span>${escape(p.kindLabel)}</span>${badge(p)}</div><h3>${escape(p.title)}</h3><p class="work-card-en">${escape(p.en)}</p>${!compact||p.cardSummary?`<p class="work-card-summary">${escape(compact?p.cardSummary:p.summary)}</p>`:''}<div class="work-card-bottom"><span>${escape(p.period)}</span><span>查看项目 <i aria-hidden="true">↗</i></span></div></div></a>`).join('');
+  const cards = (items,compact=false) => items.map((p,i) => `<a class="work-card ${compact?'work-card--compact':''} ${!compact&&i===0?'work-card--featured':''}" href="#${escape(p.id)}" data-project-id="${escape(p.id)}" style="--work-accent:${escape(p.color || '#cfcbff')}"><div class="work-card-media">${image(p.cover,p.coverAlt || p.title,'',{sizes:cardSizes(compact,i),eager:!compact&&i<2&&location.hash==='#page-projects',priority:i===0?'high':'auto'})}<span class="work-card-number">${escape(p.code)}</span>${credit(p)}</div><div class="work-card-copy"><div class="work-card-meta"><span>${escape(p.kindLabel)}</span>${badge(p)}</div><h3>${escape(p.title)}</h3><p class="work-card-en">${escape(p.en)}</p>${!compact||p.cardSummary?`<p class="work-card-summary">${escape(compact?p.cardSummary:p.summary)}</p>`:''}<div class="work-card-bottom"><span>${escape(p.period)}</span><span>查看项目 <i aria-hidden="true">↗</i></span></div></div></a>`).join('');
   const focus = directions.find(d=>d.featured);
   const news = (data.news || []).filter(n => byId.has(n.projectId));
   const newsCard = (n, featured = false) => {
@@ -87,5 +97,37 @@
     detail.innerHTML=`<div class="project-detail-hero center-detail-hero has-cover" id="${escape(p.id)}" style="--work-accent:${escape(p.color||'#cfcbff')}">${image(p.detailCover||p.cover,p.detailCoverAlt||p.coverAlt||p.title,'detail-cover',{sizes:'100vw',eager:true,position:p.coverPosition||'center'})}<div class="site-shell project-detail-hero-content"><a class="project-back-link" data-research-back href="${escape(back)}">‹ ${backText}</a><p class="project-detail-kicker">${escape(p.code)} · ${escape(p.statusText)}</p><h1>${escape(p.title)}</h1><p class="project-detail-subtitle">${escape(p.en)}<br>${escape(p.kindLabel||'研究方向')}</p></div>${credit(p)}</div><div class="site-shell project-detail-layout"><aside class="project-detail-sidebar" aria-label="项目内容导航"><a data-research-back href="${escape(back)}">‹ 返回${backText}</a><nav aria-label="详情页目录"><a href="#${escape(p.id)}-overview">概述</a>${p.exploreGroups?.length?`<a href="#${escape(p.id)}-explore">研究主题与成果</a>`:''}${p.demos?.length?`<a href="#${escape(p.id)}-demo">网页原型与体验</a>`:''}${sections.map(s=>`<a href="#${escape(p.id)}-${escape(s.id)}">${s.phase?`<span class="sidebar-phase">${escape(s.phase)}</span>`:''}${escape(s.title)}</a>`).join('')}${p.links?.length?`<a href="#${escape(p.id)}-outputs">论文与相关成果</a>`:''}${related.length?`<a href="#${escape(p.id)}-related">相关研究与项目</a>`:''}</nav></aside><article class="project-detail-content"><section class="project-detail-block project-detail-lead" id="${escape(p.id)}-overview"><p>${escape(p.lead||p.summary)}</p></section><div class="research-facts">${(p.meta||[]).map(m=>`<div><span>${escape(m.label)}</span><strong>${escape(m.value)}</strong></div>`).join('')}</div>${p.owner?`<p class="project-attribution">${escape(p.owner)}</p>`:''}${exploreOverview(p)}${demos(p)}${sections.map(s=>sectionHTML(p,s)).join('')}${p.links?.length?`<section class="project-detail-block" id="${escape(p.id)}-outputs"><h2>论文与相关成果</h2><div class="research-links">${p.links.map(link).join('')}</div></section>`:''}${related.length?`<section class="project-detail-block" id="${escape(p.id)}-related"><h2>相关研究与项目</h2><div class="related-grid">${cards(related,true)}</div></section>`:''}${p.topicId?`<a class="direction-return" href="#${escape(p.topicId)}">研究主题：${escape(p.topicTitle)} ↗</a>`:''}${p.directionId?`<a class="direction-return" href="#${escape(p.directionId)}">所属研究方向：${escape(p.direction)} ↗</a>`:''}<a class="detail-back-bottom" data-research-back href="${escape(back)}">← 返回${backText}</a></article></div>`;
     document.title=`${p.title} · Trust Personal AI Lab`;
   }
+  // Defer actual cover requests until their route is visible and near the
+  // viewport. Tiny inline previews occupy the reserved image area meanwhile.
+  const activateCover=picture=>{
+    if(picture.dataset.coverState!=='pending')return;
+    picture.dataset.coverState='active';
+    const img=picture.querySelector('img');
+    img.loading='eager';
+    img.fetchPriority='auto';
+    picture.querySelectorAll('source[data-srcset]').forEach(source=>{
+      source.srcset=source.dataset.srcset;
+      delete source.dataset.srcset;
+    });
+    img.srcset=img.dataset.srcset;
+    img.src=img.dataset.src;
+    delete img.dataset.srcset;
+    delete img.dataset.src;
+  };
+  const coverObserver=typeof IntersectionObserver==='function'?new IntersectionObserver(entries=>{
+    entries.forEach(entry=>{if(entry.isIntersecting){activateCover(entry.target);coverObserver.unobserve(entry.target);}});
+  },{rootMargin:'350px 0px'}):null;
+  const pendingCovers=root=>[...(root.matches?.('picture[data-cover-state="pending"]')?[root]:[]),...root.querySelectorAll('picture[data-cover-state="pending"]')];
+  const watchCovers=root=>pendingCovers(root).forEach(picture=>coverObserver?coverObserver.observe(picture):activateCover(picture));
+  watchCovers(document);
+  const coverMutations=new MutationObserver(records=>records.forEach(record=>{
+    record.removedNodes.forEach(node=>{if(node.nodeType===1&&coverObserver)pendingCovers(node).forEach(picture=>coverObserver.unobserve(picture));});
+    record.addedNodes.forEach(node=>{if(node.nodeType===1)watchCovers(node);});
+  }));
+  coverMutations.observe(document.getElementById('main-content') || document.body,{childList:true,subtree:true});
+  document.addEventListener('load',event=>{
+    const img=event.target;
+    if(img.tagName==='IMG'&&img.naturalWidth>32&&img.parentElement?.classList.contains('cover-picture'))img.parentElement.dataset.coverState='ready';
+  },true);
   window.researchCenter={detailForHash,renderDetail,resolveHash};
 })();

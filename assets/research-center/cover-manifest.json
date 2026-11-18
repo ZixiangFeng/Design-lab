@@ -1,0 +1,2500 @@
+{
+  "version": 2,
+  "profiles": {
+    "card": {
+      "widths": [
+        320,
+        480,
+        640,
+        960
+      ],
+      "avif": 42,
+      "webp": 66,
+      "default": 480
+    },
+    "hero": {
+      "widths": [
+        960,
+        1280,
+        1600
+      ],
+      "avif": 50,
+      "webp": 78,
+      "default": 1280
+    }
+  },
+  "images": {
+    "assets/research-center/covers-v2-20261118/adhd-inclusive.webp": {
+      "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAAAQBACdASoYAA4AP1WQv1WxqaajMAgCMCqJYgDCgButE/qhKCuH7BEOAAD8Hgdv7u6uHQUeuSm/WgujluGV1nH70KBTFpx1DKFCjv+hHB/UUra//W+Gfq0yHeTsbByrVWlrQDeMsHnGfQiUB/dtstzVf1j22dFnfqLDbCFNOv4I9sFDb9Rv20uAAAA=",
+      "color": "#8c8290",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.480w.webp",
+        "width": 480,
+        "height": 270,
+        "webp": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.320w.webp 320w, assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.480w.webp 480w, assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.640w.webp 640w, assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.320w.avif 320w, assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.480w.avif 480w, assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.640w.avif 640w, assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.hero.1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "webp": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.hero.960w.webp 960w, assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.hero.960w.avif 960w, assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.hero.1600w.avif 1600w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/agent-design-teaching.webp": {
+      "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAAAQBACdASoYAA4AP1WSv1YxqiajsAgCMCqJZgCuHBu1aocM8j7B3EgDoAD6DXi4jkZzfh0OoDGysU3TOFtlRtAcenZOiuGAAhitj1E4I0bA6MxWbOY+Y59ktpdJZQppKf5Y63wgEcfyMPu+lbl32esoCu42dW3+yK53wZvwFbqU1x7LffZiHroAAAA=",
+      "color": "#797575",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.480w.webp",
+        "width": 480,
+        "height": 270,
+        "webp": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.320w.webp 320w, assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.480w.webp 480w, assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.640w.webp 640w, assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.320w.avif 320w, assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.480w.avif 480w, assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.640w.avif 640w, assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.hero.1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "webp": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.hero.960w.webp 960w, assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.hero.960w.avif 960w, assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.hero.1600w.avif 1600w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/ai-co-speculation.webp": {
+      "placeholder": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABwBACdASoYAA4AP1WSv1YxqiajsAgCMCqJbACpFMmJ/gEfLCno9TVLrPdAQAD9mgorXlynG9oFBotRsskJeur5dAf+vH6Twwkrr+/Ilt9pUtSGrw0jv2QvWW5rjBE8q3FPwIZNwbZPEcA/+8mwxjiCBe7Cqww1aMcTQVEnr5N1H/qwXZLMLqyXSnHQzkmml6AvRZogyfZAMYAA",
+      "color": "#998c92",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.480w.webp",
+        "width": 480,
+        "height": 270,
+        "webp": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.320w.webp 320w, assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.480w.webp 480w, assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.640w.webp 640w, assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.320w.avif 320w, assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.480w.avif 480w, assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.640w.avif 640w, assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.hero.1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "webp": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.hero.960w.webp 960w, assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.hero.960w.avif 960w, assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.hero.1600w.avif 1600w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/ar-science-books.webp": {
+      "placeholder": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAADQAwCdASoYAA4AP1WSv1YxqiajsAgCMCqJbAC7AYyKQx60hg0wJLAA9zvjw485ya6atP5RlNJnfhHdP3pvZsvEJICEJ0F/6VmapvxFhKyapeqO/+P0wb8lpCOUi9w4zWCbd5H11jxMsIEonl2Wu4KIwy8b8W8iG3AeFNoW+qSQCx8dfY/Hhc/EjpM478zZqVK0BOCvSXAAAA==",
+      "color": "#928f82",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.480w.webp",
+        "width": 480,
+        "height": 270,
+        "webp": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.320w.webp 320w, assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.480w.webp 480w, assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.640w.webp 640w, assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.320w.avif 320w, assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.480w.avif 480w, assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.640w.avif 640w, assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.hero.1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "webp": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.hero.960w.webp 960w, assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.hero.960w.avif 960w, assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.hero.1600w.avif 1600w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/bizika.webp": {
+      "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAQBACdASoYAA4AP1WQvlWxqaajMAgCMCqJYwAAXytqVujrMC1N9ZGYgAD4ql5fj5LP9nN+fltWn96Fhmh6yON1bftwAZadrz21lbti+U1rq5mApoVenRs/0RE/WBRB/wylXLcAAAA=",
+      "color": "#8e735d",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-bizika.75b6c5352500.card.480w.webp",
+        "width": 480,
+        "height": 270,
+        "webp": "assets/research-center/optimized/mixed-bizika.75b6c5352500.card.320w.webp 320w, assets/research-center/optimized/mixed-bizika.75b6c5352500.card.480w.webp 480w, assets/research-center/optimized/mixed-bizika.75b6c5352500.card.640w.webp 640w, assets/research-center/optimized/mixed-bizika.75b6c5352500.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-bizika.75b6c5352500.card.320w.avif 320w, assets/research-center/optimized/mixed-bizika.75b6c5352500.card.480w.avif 480w, assets/research-center/optimized/mixed-bizika.75b6c5352500.card.640w.avif 640w, assets/research-center/optimized/mixed-bizika.75b6c5352500.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-bizika.75b6c5352500.hero.1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "webp": "assets/research-center/optimized/mixed-bizika.75b6c5352500.hero.960w.webp 960w, assets/research-center/optimized/mixed-bizika.75b6c5352500.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-bizika.75b6c5352500.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-bizika.75b6c5352500.hero.960w.avif 960w, assets/research-center/optimized/mixed-bizika.75b6c5352500.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-bizika.75b6c5352500.hero.1600w.avif 1600w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/driving-agent-emotion.webp": {
+      "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADQAwCdASoYAA4AP1WSv1YxqiajsAgCMCqJQAAH7AxTXWZUcjb4AAAA/qKZPyyKA4aT0ElY4V7qp0K0lXXfYA6ZLLOytfEP/3efzB1E+QvT98CjsQiRUG5yIrw+oAInHttaf3gUG54h3w8sFfwZbwLdml5T/S3xjw6IgAAA",
+      "color": "#42454b",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.480w.webp",
+        "width": 480,
+        "height": 270,
+        "webp": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.320w.webp 320w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.480w.webp 480w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.640w.webp 640w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.320w.avif 320w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.480w.avif 480w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.640w.avif 640w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "webp": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.960w.webp 960w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.960w.avif 960w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1600w.avif 1600w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/family-cai-education.webp": {
+      "placeholder": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAwBACdASoYAA4AP1WQv1WxqaajMAgCMCqJZAAIEAL0Zox7C8OvkFgyZgAA+R/oTj8qRDQYW4UYyXnOvJ+YKjo53nnBiK85sBEczEXhnryp50rENkOWPrIl8rPN/0EYOWMU2dj+x08AahOzCPe0GwvwecxO9gdELDYySvbDdt1kd6pIX3MxDq5nHDoAAA==",
+      "color": "#8b8179",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.480w.webp",
+        "width": 480,
+        "height": 270,
+        "webp": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.320w.webp 320w, assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.480w.webp 480w, assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.640w.webp 640w, assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.320w.avif 320w, assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.480w.avif 480w, assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.640w.avif 640w, assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.hero.1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "webp": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.hero.960w.webp 960w, assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.hero.960w.avif 960w, assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.hero.1600w.avif 1600w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/more-than-human.webp": {
+      "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADwAwCdASoYAA4AP1WQv1WxqaajMAgCMCqJbACsABdBhe081GpiHWzkAP4WXFN2n+Tli4sGfMunB+lNLCioAp9UJ85htgH0NGEJVCdoq9qOqiq5mFLZqUFxK6gpDI+bPSDOHbNN2bx+q9L7voIq7N4Ni7EuAA==",
+      "color": "#71623b",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.480w.webp",
+        "width": 480,
+        "height": 270,
+        "webp": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.320w.webp 320w, assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.480w.webp 480w, assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.640w.webp 640w, assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.320w.avif 320w, assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.480w.avif 480w, assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.640w.avif 640w, assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.hero.1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "webp": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.hero.960w.webp 960w, assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.hero.960w.avif 960w, assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.hero.1600w.avif 1600w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/neurobridge.webp": {
+      "placeholder": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAwCdASoYAA4AP1WSv1WxqiajMAgCMCqJZQAAPij1GRvYHFQpCaIAAP7csAG9TBBofCpOwHq0dTMaVCv9G0+olijbKMRMFfQyAJK38od9sWK/IeAAAA==",
+      "color": "#262a21",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.480w.webp",
+        "width": 480,
+        "height": 270,
+        "webp": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.320w.webp 320w, assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.480w.webp 480w, assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.640w.webp 640w, assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.320w.avif 320w, assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.480w.avif 480w, assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.640w.avif 640w, assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.hero.1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "webp": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.hero.960w.webp 960w, assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.hero.960w.avif 960w, assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.hero.1600w.avif 1600w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/peephole-wayfinding.webp": {
+      "placeholder": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAACwAwCdASoYAA4AP1WQvlWxqaajMAgCMCqJbACdABjjaqgahHrxYAD64e6eXsYKqYcvrgizwA4IRIl+IEkT4gg9inbi6JyKq2F/pT8YhaV+Cd+nZ7FiVqCcKMKKApZfuOdJvSzY6aSIRcSTqrfnLKjWKUs7os6FBGHRgAAA",
+      "color": "#616166",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.480w.webp",
+        "width": 480,
+        "height": 270,
+        "webp": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.320w.webp 320w, assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.480w.webp 480w, assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.640w.webp 640w, assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.320w.avif 320w, assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.480w.avif 480w, assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.640w.avif 640w, assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.hero.1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "webp": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.hero.960w.webp 960w, assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.hero.960w.avif 960w, assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.hero.1600w.avif 1600w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/privacy-in-motion.webp": {
+      "placeholder": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwBACdASoYABAAP1WQv1WxqaajMAgCMCqJagCw7BkjoP4ctLlMfRIWX+AA4mqQW4/V/r9x3BK+7oRd/PTsp63pkrZ0Xjk27LPy3K1qTgsp246L3lkkk1PjOCjdCuLygtv+C5pVkUcPjeonkYOdcAjlB6FimitDJda2TnyiYwlY0ExIRwAAAA==",
+      "color": "#7f7062",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.480w.webp",
+        "width": 480,
+        "height": 320,
+        "webp": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.320w.webp 320w, assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.480w.webp 480w, assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.640w.webp 640w, assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.320w.avif 320w, assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.480w.avif 480w, assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.640w.avif 640w, assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.hero.1280w.webp",
+        "width": 1280,
+        "height": 853,
+        "webp": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.hero.960w.webp 960w, assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.hero.1536w.webp 1536w",
+        "avif": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.hero.960w.avif 960w, assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.hero.1536w.avif 1536w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/project-01.webp": {
+      "placeholder": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADwAwCdASoYAA4AP1WSv1WxqiajMAgCMCqJYwAAXGZnKayba6mIDZwAAP5B959l1JY7sqjI7YFGUdmVJcSdErNJNRr6/zZ3M8OBAVS4eW5QyE+ujfOeDWvGOv6lHMTNK3xilKaAAAA=",
+      "color": "#67676c",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-project-01.47a96948c002.card.480w.webp",
+        "width": 480,
+        "height": 270,
+        "webp": "assets/research-center/optimized/mixed-project-01.47a96948c002.card.320w.webp 320w, assets/research-center/optimized/mixed-project-01.47a96948c002.card.480w.webp 480w, assets/research-center/optimized/mixed-project-01.47a96948c002.card.640w.webp 640w, assets/research-center/optimized/mixed-project-01.47a96948c002.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-project-01.47a96948c002.card.320w.avif 320w, assets/research-center/optimized/mixed-project-01.47a96948c002.card.480w.avif 480w, assets/research-center/optimized/mixed-project-01.47a96948c002.card.640w.avif 640w, assets/research-center/optimized/mixed-project-01.47a96948c002.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-project-01.47a96948c002.hero.1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "webp": "assets/research-center/optimized/mixed-project-01.47a96948c002.hero.960w.webp 960w, assets/research-center/optimized/mixed-project-01.47a96948c002.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-project-01.47a96948c002.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-project-01.47a96948c002.hero.960w.avif 960w, assets/research-center/optimized/mixed-project-01.47a96948c002.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-project-01.47a96948c002.hero.1600w.avif 1600w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/project-02.webp": {
+      "placeholder": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBACdASoYAA4AP1WSvlWxqiajMAgCMCqJZADImB559iymsSAcMLBDAAD+lDK2ON8vaEvzzkmGPU5Kky4HvV7vvlJErY5oxKWD1xemvIvXOcVIz2L4OTzFGX/LGGr0rkVyuxNGm4gjEjDlZ+21XZAlRyydQ7PREVbsd1wAAAA=",
+      "color": "#a4a79f",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-project-02.06164da42de5.card.480w.webp",
+        "width": 480,
+        "height": 270,
+        "webp": "assets/research-center/optimized/mixed-project-02.06164da42de5.card.320w.webp 320w, assets/research-center/optimized/mixed-project-02.06164da42de5.card.480w.webp 480w, assets/research-center/optimized/mixed-project-02.06164da42de5.card.640w.webp 640w, assets/research-center/optimized/mixed-project-02.06164da42de5.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-project-02.06164da42de5.card.320w.avif 320w, assets/research-center/optimized/mixed-project-02.06164da42de5.card.480w.avif 480w, assets/research-center/optimized/mixed-project-02.06164da42de5.card.640w.avif 640w, assets/research-center/optimized/mixed-project-02.06164da42de5.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-project-02.06164da42de5.hero.1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "webp": "assets/research-center/optimized/mixed-project-02.06164da42de5.hero.960w.webp 960w, assets/research-center/optimized/mixed-project-02.06164da42de5.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-project-02.06164da42de5.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-project-02.06164da42de5.hero.960w.avif 960w, assets/research-center/optimized/mixed-project-02.06164da42de5.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-project-02.06164da42de5.hero.1600w.avif 1600w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/project-03.webp": {
+      "placeholder": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBACdASoYABAAP1WSv1YxqiajsAgCMCqJQAALTbeziYXhauMSd8OokAD8Jp+qddMmG3c9hlfesxjM4Mz+HRonzldiIKERoJiGeCUrOT4+ywSM9JoBq3UhfxlCvZ/eo7Xl49RXq3wc7aSyVOnuLRh+gAAAAA==",
+      "color": "#7a726b",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.480w.webp",
+        "width": 480,
+        "height": 320,
+        "webp": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.320w.webp 320w, assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.480w.webp 480w, assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.640w.webp 640w, assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.320w.avif 320w, assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.480w.avif 480w, assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.640w.avif 640w, assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.hero.1280w.webp",
+        "width": 1280,
+        "height": 853,
+        "webp": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.hero.960w.webp 960w, assets/research-center/optimized/mixed-project-03.9051b84c59ab.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-project-03.9051b84c59ab.hero.1536w.webp 1536w",
+        "avif": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.hero.960w.avif 960w, assets/research-center/optimized/mixed-project-03.9051b84c59ab.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-project-03.9051b84c59ab.hero.1536w.avif 1536w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/project-05.webp": {
+      "placeholder": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACwAwCdASoYAA4AP1WSv1YxqiajsAgCMCqJQAAGOhS8iO1snQ0o0AD+y/WCPzcQ/APOiXnyCOpoOASqMpTU7kpyPzEzxtB/YRg1s45lle3VtjZ3Y1Ry4P/F+JMArfA1X74N7qaFEvL4rGAAAAA=",
+      "color": "#3e3f46",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.480w.webp",
+        "width": 480,
+        "height": 270,
+        "webp": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.320w.webp 320w, assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.480w.webp 480w, assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.640w.webp 640w, assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.320w.avif 320w, assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.480w.avif 480w, assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.640w.avif 640w, assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.hero.1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "webp": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.hero.960w.webp 960w, assets/research-center/optimized/mixed-project-05.b74f0eff2236.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-project-05.b74f0eff2236.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.hero.960w.avif 960w, assets/research-center/optimized/mixed-project-05.b74f0eff2236.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-project-05.b74f0eff2236.hero.1600w.avif 1600w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/smartaste.webp": {
+      "placeholder": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAABQBACdASoYAA4AP1WQv1WxqaajMAgCMCqJbACdMoMYAD11lP4cwF+QHzGAAP3eT956GArx4O/gji9q+w39JKVzx3n486rKg5kQ1TJge6o/EH/8UxgImE1vXE0ZaSsLDVHVenU5oa9dwyNlaBoHFhmd/Nrx3WGGIk0o/7KtPzqSmEcHzRWSIAAA",
+      "color": "#bc9648",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.480w.webp",
+        "width": 480,
+        "height": 270,
+        "webp": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.320w.webp 320w, assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.480w.webp 480w, assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.640w.webp 640w, assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.320w.avif 320w, assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.480w.avif 480w, assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.640w.avif 640w, assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.hero.1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "webp": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.hero.960w.webp 960w, assets/research-center/optimized/mixed-smartaste.f36d477ce526.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-smartaste.f36d477ce526.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.hero.960w.avif 960w, assets/research-center/optimized/mixed-smartaste.f36d477ce526.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-smartaste.f36d477ce526.hero.1600w.avif 1600w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/soma.webp": {
+      "placeholder": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACQAwCdASoYAA4AP1WSv1WxqiajMAgCMCqJYgAAYYZQWU7fT/5oAPoJx7sOcZe55I19U6GuZ3K8d2Gd4fp6tnP/bCjnULbip7vOjRlR0/mqslr3w5gLfKQFd7y3gAAA",
+      "color": "#99a1a0",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-soma.a686d23a33e2.card.480w.webp",
+        "width": 480,
+        "height": 270,
+        "webp": "assets/research-center/optimized/mixed-soma.a686d23a33e2.card.320w.webp 320w, assets/research-center/optimized/mixed-soma.a686d23a33e2.card.480w.webp 480w, assets/research-center/optimized/mixed-soma.a686d23a33e2.card.640w.webp 640w, assets/research-center/optimized/mixed-soma.a686d23a33e2.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-soma.a686d23a33e2.card.320w.avif 320w, assets/research-center/optimized/mixed-soma.a686d23a33e2.card.480w.avif 480w, assets/research-center/optimized/mixed-soma.a686d23a33e2.card.640w.avif 640w, assets/research-center/optimized/mixed-soma.a686d23a33e2.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-soma.a686d23a33e2.hero.1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "webp": "assets/research-center/optimized/mixed-soma.a686d23a33e2.hero.960w.webp 960w, assets/research-center/optimized/mixed-soma.a686d23a33e2.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-soma.a686d23a33e2.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-soma.a686d23a33e2.hero.960w.avif 960w, assets/research-center/optimized/mixed-soma.a686d23a33e2.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-soma.a686d23a33e2.hero.1600w.avif 1600w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/triadic-embodied-feedback.webp": {
+      "placeholder": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABQAwCdASoYAA4AP1WSvlWxqiajMAgCMCqJZQCw7C0CAWVoAAD+61IDPnTx6giDrKuYXMPRE/tVTbhpk5yk6arU5+HlK1qqJgjI0TdQ0GUS2AAA",
+      "color": "#1f2e3f",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.480w.webp",
+        "width": 480,
+        "height": 270,
+        "webp": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.320w.webp 320w, assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.480w.webp 480w, assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.640w.webp 640w, assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.320w.avif 320w, assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.480w.avif 480w, assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.640w.avif 640w, assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.hero.1280w.webp",
+        "width": 1280,
+        "height": 720,
+        "webp": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.hero.960w.webp 960w, assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.hero.1600w.webp 1600w",
+        "avif": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.hero.960w.avif 960w, assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.hero.1600w.avif 1600w"
+      }
+    },
+    "assets/research-center/covers-v2-20261118/wudu-service.webp": {
+      "placeholder": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAACQBACdASoYABAAP1WQv1WxqaajMAgCMCqJQBUehAt7iT/GNoq2DsNqVSKjJgAA/eoB0FIIohdiSUVtvb2fLiVLJOorPj0g3quH+P6C0k2G3zJ/9cvmhiJPJyo8YxgcSIj6ozwGcSKM8xhA3yfh7vFL3IeoIa7c+ZCYDdA+z80y6ZYneJkuHOUAAAA=",
+      "color": "#7f6b5f",
+      "card": {
+        "src": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.480w.webp",
+        "width": 480,
+        "height": 320,
+        "webp": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.320w.webp 320w, assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.480w.webp 480w, assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.640w.webp 640w, assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.960w.webp 960w",
+        "avif": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.320w.avif 320w, assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.480w.avif 480w, assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.640w.avif 640w, assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.960w.avif 960w"
+      },
+      "hero": {
+        "src": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.hero.1280w.webp",
+        "width": 1280,
+        "height": 853,
+        "webp": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.hero.960w.webp 960w, assets/research-center/optimized/mixed-wudu-service.5e93830b9994.hero.1280w.webp 1280w, assets/research-center/optimized/mixed-wudu-service.5e93830b9994.hero.1536w.webp 1536w",
+        "avif": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.hero.960w.avif 960w, assets/research-center/optimized/mixed-wudu-service.5e93830b9994.hero.1280w.avif 1280w, assets/research-center/optimized/mixed-wudu-service.5e93830b9994.hero.1536w.avif 1536w"
+      }
+    }
+  },
+  "files": [
+    {
+      "src": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 180,
+      "bytes": 4241
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 7648
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 270,
+      "bytes": 6045
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 12566
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 360,
+      "bytes": 8093
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 360,
+      "bytes": 18108
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 11879
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 31542
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 15875
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 42178
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 720,
+      "bytes": 24727
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 67388
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.hero.1600w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1600,
+      "height": 900,
+      "bytes": 34997
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-adhd-inclusive.4dd796228307.hero.1600w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 90946
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 180,
+      "bytes": 7800
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 12400
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 270,
+      "bytes": 13303
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 22236
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 360,
+      "bytes": 19212
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 360,
+      "bytes": 34418
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 33483
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 62226
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 45815
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 77850
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 720,
+      "bytes": 66606
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 116494
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.hero.1600w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1600,
+      "height": 900,
+      "bytes": 87538
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-agent-design-teaching.26562d6136ae.hero.1600w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 154416
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 180,
+      "bytes": 5881
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 9726
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 270,
+      "bytes": 9810
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 17918
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 360,
+      "bytes": 14544
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 360,
+      "bytes": 27758
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 25967
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 52020
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 35899
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 66758
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 720,
+      "bytes": 53902
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 102530
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.hero.1600w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1600,
+      "height": 900,
+      "bytes": 72595
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ai-co-speculation.cec4e94eeea3.hero.1600w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 134968
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 180,
+      "bytes": 9080
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 13956
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 270,
+      "bytes": 15693
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 25932
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 360,
+      "bytes": 22782
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 360,
+      "bytes": 39646
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 39512
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 71094
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 53499
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 89108
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 720,
+      "bytes": 77962
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 133634
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.hero.1600w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1600,
+      "height": 900,
+      "bytes": 101984
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-ar-science-books.49bdcaf266bc.hero.1600w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 178042
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-bizika.75b6c5352500.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 180,
+      "bytes": 2603
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-bizika.75b6c5352500.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 4864
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-bizika.75b6c5352500.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 270,
+      "bytes": 4810
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-bizika.75b6c5352500.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 9696
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-bizika.75b6c5352500.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 360,
+      "bytes": 7658
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-bizika.75b6c5352500.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 360,
+      "bytes": 16054
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-bizika.75b6c5352500.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 15913
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-bizika.75b6c5352500.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 33526
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-bizika.75b6c5352500.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 23578
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-bizika.75b6c5352500.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 43990
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-bizika.75b6c5352500.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 720,
+      "bytes": 37103
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-bizika.75b6c5352500.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 71498
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-bizika.75b6c5352500.hero.1600w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1600,
+      "height": 900,
+      "bytes": 50979
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-bizika.75b6c5352500.hero.1600w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 96048
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 180,
+      "bytes": 4793
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 7806
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 270,
+      "bytes": 7518
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 13510
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 360,
+      "bytes": 10508
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 360,
+      "bytes": 19988
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 17258
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 35092
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 24219
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 45870
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 720,
+      "bytes": 35954
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 68372
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1600w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1600,
+      "height": 900,
+      "bytes": 48339
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-driving-agent-emotion.341a716d8590.hero.1600w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 91800
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 180,
+      "bytes": 5442
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 8712
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 270,
+      "bytes": 8608
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 14920
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 360,
+      "bytes": 11720
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 360,
+      "bytes": 21834
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 18579
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 36884
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 24909
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 47252
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 720,
+      "bytes": 35214
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 69398
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.hero.1600w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1600,
+      "height": 900,
+      "bytes": 46372
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-family-cai-education.b14c6ddc9a7c.hero.1600w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 91782
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 180,
+      "bytes": 8902
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 14798
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 270,
+      "bytes": 16082
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 28156
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 360,
+      "bytes": 24698
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 360,
+      "bytes": 44766
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 44987
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 80876
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 60571
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 100674
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 720,
+      "bytes": 86472
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 148910
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.hero.1600w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1600,
+      "height": 900,
+      "bytes": 112675
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-more-than-human.7c06aac3c89d.hero.1600w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 192900
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 180,
+      "bytes": 1858
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 2850
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 270,
+      "bytes": 2665
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 4628
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 360,
+      "bytes": 3453
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 360,
+      "bytes": 6692
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 5233
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 11206
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 6559
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 13682
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 720,
+      "bytes": 9512
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 20368
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.hero.1600w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1600,
+      "height": 900,
+      "bytes": 12317
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-neurobridge.0bf2e19f9870.hero.1600w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 27842
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 180,
+      "bytes": 7783
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 12442
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 270,
+      "bytes": 13430
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 23342
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 360,
+      "bytes": 19206
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 360,
+      "bytes": 34876
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 29828
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 57122
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 39938
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 71958
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 720,
+      "bytes": 53436
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 99730
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.hero.1600w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1600,
+      "height": 900,
+      "bytes": 67686
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-peephole-wayfinding.0c2fdc15d841.hero.1600w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 125430
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 213,
+      "bytes": 7422
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 213,
+      "bytes": 11846
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 320,
+      "bytes": 12228
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 320,
+      "bytes": 21096
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 427,
+      "bytes": 17519
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 427,
+      "bytes": 32080
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 640,
+      "bytes": 29495
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 640,
+      "bytes": 56336
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 640,
+      "bytes": 41158
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 640,
+      "bytes": 73084
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 853,
+      "bytes": 60368
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 108534
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.hero.1536w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 76307
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-privacy-in-motion.7f018d72ec61.hero.1536w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 137022
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-01.47a96948c002.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 180,
+      "bytes": 4739
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-01.47a96948c002.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 8482
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-01.47a96948c002.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 270,
+      "bytes": 8725
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-01.47a96948c002.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 15988
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-01.47a96948c002.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 360,
+      "bytes": 13338
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-01.47a96948c002.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 360,
+      "bytes": 25712
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-01.47a96948c002.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 24817
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-01.47a96948c002.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 48660
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-01.47a96948c002.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 35126
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-01.47a96948c002.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 62868
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-01.47a96948c002.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 720,
+      "bytes": 51037
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-01.47a96948c002.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 91330
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-01.47a96948c002.hero.1600w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1600,
+      "height": 900,
+      "bytes": 67333
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-01.47a96948c002.hero.1600w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 118160
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-02.06164da42de5.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 180,
+      "bytes": 3712
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-02.06164da42de5.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 5696
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-02.06164da42de5.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 270,
+      "bytes": 5548
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-02.06164da42de5.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 9280
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-02.06164da42de5.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 360,
+      "bytes": 7231
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-02.06164da42de5.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 360,
+      "bytes": 13494
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-02.06164da42de5.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 11514
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-02.06164da42de5.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 23632
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-02.06164da42de5.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 15485
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-02.06164da42de5.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 30200
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-02.06164da42de5.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 720,
+      "bytes": 22783
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-02.06164da42de5.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 45376
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-02.06164da42de5.hero.1600w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1600,
+      "height": 900,
+      "bytes": 29150
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-02.06164da42de5.hero.1600w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 61566
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 213,
+      "bytes": 5611
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 213,
+      "bytes": 10244
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 320,
+      "bytes": 10528
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 320,
+      "bytes": 19602
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 427,
+      "bytes": 16542
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 427,
+      "bytes": 32950
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 640,
+      "bytes": 32192
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 640,
+      "bytes": 62362
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 640,
+      "bytes": 45000
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 640,
+      "bytes": 79648
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 853,
+      "bytes": 67028
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 123580
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.hero.1536w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 86611
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-03.9051b84c59ab.hero.1536w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 152010
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 180,
+      "bytes": 4353
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 7706
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 270,
+      "bytes": 7069
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 13560
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 360,
+      "bytes": 9926
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 360,
+      "bytes": 20352
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 16365
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 35186
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 21813
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 43174
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 720,
+      "bytes": 32592
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 63630
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.hero.1600w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1600,
+      "height": 900,
+      "bytes": 43649
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-project-05.b74f0eff2236.hero.1600w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 81984
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 180,
+      "bytes": 5939
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 10198
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 270,
+      "bytes": 10044
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 18750
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 360,
+      "bytes": 14656
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 360,
+      "bytes": 28954
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 26945
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 53554
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 37143
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 67580
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 720,
+      "bytes": 54899
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 99494
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.hero.1600w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1600,
+      "height": 900,
+      "bytes": 71733
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-smartaste.f36d477ce526.hero.1600w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 130968
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-soma.a686d23a33e2.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 180,
+      "bytes": 2514
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-soma.a686d23a33e2.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 4188
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-soma.a686d23a33e2.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 270,
+      "bytes": 3823
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-soma.a686d23a33e2.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 6998
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-soma.a686d23a33e2.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 360,
+      "bytes": 5052
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-soma.a686d23a33e2.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 360,
+      "bytes": 9936
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-soma.a686d23a33e2.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 7938
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-soma.a686d23a33e2.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 16514
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-soma.a686d23a33e2.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 10487
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-soma.a686d23a33e2.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 20822
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-soma.a686d23a33e2.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 720,
+      "bytes": 14497
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-soma.a686d23a33e2.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 30916
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-soma.a686d23a33e2.hero.1600w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1600,
+      "height": 900,
+      "bytes": 18485
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-soma.a686d23a33e2.hero.1600w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 40142
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 180,
+      "bytes": 3030
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 180,
+      "bytes": 4820
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 270,
+      "bytes": 5675
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 270,
+      "bytes": 9928
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 360,
+      "bytes": 9061
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 360,
+      "bytes": 16646
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 18276
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 34370
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 540,
+      "bytes": 26085
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 540,
+      "bytes": 42376
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 720,
+      "bytes": 42355
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 720,
+      "bytes": 68594
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.hero.1600w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1600,
+      "height": 900,
+      "bytes": 57756
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-triadic-embodied-feedback.15646e49d9c6.hero.1600w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1600,
+      "height": 900,
+      "bytes": 94984
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.320w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 320,
+      "height": 213,
+      "bytes": 7615
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.320w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 320,
+      "height": 213,
+      "bytes": 12190
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.480w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 480,
+      "height": 320,
+      "bytes": 12266
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.480w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 480,
+      "height": 320,
+      "bytes": 21076
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.640w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 640,
+      "height": 427,
+      "bytes": 17394
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.640w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 640,
+      "height": 427,
+      "bytes": 30960
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.960w.avif",
+      "role": "card",
+      "format": "avif",
+      "width": 960,
+      "height": 640,
+      "bytes": 28070
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.card.960w.webp",
+      "role": "card",
+      "format": "webp",
+      "width": 960,
+      "height": 640,
+      "bytes": 54076
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.hero.960w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 960,
+      "height": 640,
+      "bytes": 38610
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.hero.960w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 960,
+      "height": 640,
+      "bytes": 68788
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.hero.1280w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1280,
+      "height": 853,
+      "bytes": 55072
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.hero.1280w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1280,
+      "height": 853,
+      "bytes": 100916
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.hero.1536w.avif",
+      "role": "hero",
+      "format": "avif",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 69440
+    },
+    {
+      "src": "assets/research-center/optimized/mixed-wudu-service.5e93830b9994.hero.1536w.webp",
+      "role": "hero",
+      "format": "webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 124678
+    }
+  ]
+}

@@ -121,14 +121,14 @@ window.RESEARCH_CENTER = {
           "takeaway": "下一步是将理论变量转化为可比较的原型条件。"
         }
       ],
-      "cover": "assets/research-center/covers-20261117/triadic-embodied-feedback.webp",
-      "coverAlt": "使用者通过表情与手势和屏幕中的虚拟智能体交流 · AI 场景示意",
+      "cover": "assets/research-center/covers-v2-20261118/triadic-embodied-feedback.webp",
+      "coverAlt": "虚拟面孔与表情、语音和节奏模块构成的多模态反馈概念图 · AI 场景示意",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "52% 44%",
+      "coverPosition": "50% 48%",
       "direction": "个性化人智交互用户体验与信任研究",
       "directionId": "direction-embodied-trust",
-      "detailCover": "assets/research-center/covers-20261117/triadic-embodied-feedback.webp",
-      "detailCoverAlt": "使用者通过表情与手势和屏幕中的虚拟智能体交流 · AI 场景示意",
+      "detailCover": "assets/research-center/covers-v2-20261118/triadic-embodied-feedback.webp",
+      "detailCoverAlt": "虚拟面孔与表情、语音和节奏模块构成的多模态反馈概念图 · AI 场景示意",
       "topicId": "companion-design-strategy",
       "topicTitle": "人机陪伴交互设计趋势洞察与策略研究",
       "cardSummary": "提炼三通道、六类反馈变量，建立从用户感知到信任的IMO模型，并提出待检验假设与场景适配框架。"
@@ -145,8 +145,8 @@ window.RESEARCH_CENTER = {
       "period": "2026",
       "summary": "通过414人的两项随机实验比较共情表达与消息框架。情感共情在两个实验中均对应更高感知回应性，其中受伤方实验还出现更高整体信任。",
       "lead": "个性化陪伴需要理解用户怎样看待关怀、建议与回应。我们通过414人的两个独立实验，研究共情表达、消息框架和依恋差异如何联系用户对智能体的信任。",
-      "cover": "assets/research-center/covers-20261117/project-01.webp",
-      "coverAlt": "使用者在日常生活中通过手机进行支持性对话 · AI 场景示意",
+      "cover": "assets/research-center/covers-v2-20261118/project-01.webp",
+      "coverAlt": "使用者在窗边聆听手机对话并进行情感交流 · AI 场景示意",
       "meta": [
         {
           "value": "414",
@@ -297,10 +297,10 @@ window.RESEARCH_CENTER = {
       ],
       "direction": "个性化人智交互用户体验与信任研究",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "48% 45%",
+      "coverPosition": "50% 48%",
       "directionId": "direction-embodied-trust",
-      "detailCover": "assets/research-center/covers-20261117/project-01.webp",
-      "detailCoverAlt": "使用者在日常生活中通过手机进行支持性对话 · AI 场景示意",
+      "detailCover": "assets/research-center/covers-v2-20261118/project-01.webp",
+      "detailCoverAlt": "使用者在窗边聆听手机对话并进行情感交流 · AI 场景示意",
       "demos": [
         {
           "title": "情感化个性化智能体 · 网页实验原型",
@@ -325,7 +325,7 @@ window.RESEARCH_CENTER = {
       "period": "2026",
       "summary": "从四个数据库的854条记录中筛选30项实证研究，比较系统适应与用户定制的信任路径。综述显示，作用随任务、角色期待和用户解释变化，主观信任与实际依赖也可能不同步。",
       "lead": "个性化并不只意味着智能体更像用户。这个项目把已有文献中的设计变量、用户控制方式与信任证据放在一起，进一步界定哪些社会线索值得在具体任务中检验。",
-      "cover": "assets/research-center/covers-20261117/project-02.webp",
+      "cover": "assets/research-center/covers-v2-20261118/project-02.webp",
       "meta": [
         {
           "label": "证据基础",
@@ -417,12 +417,12 @@ window.RESEARCH_CENTER = {
         "project-04"
       ],
       "links": [],
-      "coverAlt": "使用者与研究者一起调整虚拟陪伴者的个性化选项 · AI 场景示意",
+      "coverAlt": "手部通过平板调整智能体的外观与偏好 · AI 场景示意",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "52% 46%",
+      "coverPosition": "50% 48%",
       "directionId": "direction-embodied-trust",
-      "detailCover": "assets/research-center/covers-20261117/project-02.webp",
-      "detailCoverAlt": "使用者与研究者一起调整虚拟陪伴者的个性化选项 · AI 场景示意",
+      "detailCover": "assets/research-center/covers-v2-20261118/project-02.webp",
+      "detailCoverAlt": "手部通过平板调整智能体的外观与偏好 · AI 场景示意",
       "topicId": "companion-design-strategy",
       "topicTitle": "人机陪伴交互设计趋势洞察与策略研究",
       "cardSummary": "从854条记录筛选30项实证研究，比较系统适应与用户定制的信任路径，说明任务、角色和控制权如何影响设计。"
@@ -561,12 +561,12 @@ window.RESEARCH_CENTER = {
         "project-01"
       ],
       "direction": "个性化人智交互用户体验与信任研究",
-      "cover": "assets/research-center/covers-20261117/project-03.webp",
+      "cover": "assets/research-center/covers-v2-20261118/project-03.webp",
       "coverAlt": "使用者在聊天中选择个人表情来表达情感 · AI 场景示意",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "50% 38%",
+      "coverPosition": "50% 48%",
       "directionId": "direction-embodied-trust",
-      "detailCover": "assets/research-center/covers-20261117/project-03.webp",
+      "detailCover": "assets/research-center/covers-v2-20261118/project-03.webp",
       "detailCoverAlt": "使用者在聊天中选择个人表情来表达情感 · AI 场景示意",
       "demos": [
         {
@@ -593,11 +593,11 @@ window.RESEARCH_CENTER = {
       "summary": "通过 48 人、四组条件的模拟驾驶实验，比较相同中性语音下的纯语音与具身助手，分析用户初始情绪、呈现方式与驾驶后情绪变化的关系。",
       "lead": "同样一句车载语音提示，为什么会带来不同的情感体验？我们把驾驶者的初始情绪与智能体的呈现方式放在一起考察，研究可见形象如何参与用户对中性提示的理解，以及这种交互与任务表现和情绪变化的关系。",
       "color": "#cfcbff",
-      "cover": "assets/research-center/covers-20261117/driving-agent-emotion.webp",
-      "detailCover": "assets/research-center/covers-20261117/driving-agent-emotion.webp",
-      "coverAlt": "驾驶模拟场景中的使用者与屏幕虚拟助手 · AI 场景示意",
+      "cover": "assets/research-center/covers-v2-20261118/driving-agent-emotion.webp",
+      "detailCover": "assets/research-center/covers-v2-20261118/driving-agent-emotion.webp",
+      "coverAlt": "银发使用者在驾驶模拟器中与具身车载助手互动 · AI 场景示意",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "52% 45%",
+      "coverPosition": "50% 48%",
       "meta": [
         {
           "label": "参与者",
@@ -798,7 +798,7 @@ window.RESEARCH_CENTER = {
           ]
         }
       ],
-      "detailCoverAlt": "驾驶模拟场景中的使用者与屏幕虚拟助手 · AI 场景示意"
+      "detailCoverAlt": "银发使用者在驾驶模拟器中与具身车载助手互动 · AI 场景示意"
     },
     {
       "id": "project-05",
@@ -812,8 +812,8 @@ window.RESEARCH_CENTER = {
       "period": "2026",
       "summary": "通过57人驾驶模拟实验，比较短、中、长语音指令在五类道路任务中的效果，分析空间能力、主观负荷与任务完成时间之间的关系。",
       "lead": "语音提示需要在信息充分与注意负担之间取得平衡。本研究把指令长度、驾驶情境和用户空间能力共同纳入评估，为智能座舱的信息表达提供实证依据。",
-      "cover": "assets/research-center/covers-20261117/project-05.webp",
-      "coverAlt": "使用者在驾驶模拟器中聆听导航语音 · AI 场景示意",
+      "cover": "assets/research-center/covers-v2-20261118/project-05.webp",
+      "coverAlt": "驾驶模拟器的方向盘、扬声器与导航屏幕局部 · AI 场景示意",
       "meta": [
         {
           "value": "57",
@@ -913,10 +913,10 @@ window.RESEARCH_CENTER = {
       ],
       "direction": "智能座舱与空间智能体互动研究",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "52% 45%",
+      "coverPosition": "50% 48%",
       "directionId": "direction-mobility",
-      "detailCover": "assets/research-center/covers-20261117/project-05.webp",
-      "detailCoverAlt": "使用者在驾驶模拟器中聆听导航语音 · AI 场景示意"
+      "detailCover": "assets/research-center/covers-v2-20261118/project-05.webp",
+      "detailCoverAlt": "驾驶模拟器的方向盘、扬声器与导航屏幕局部 · AI 场景示意"
     },
     {
       "id": "privacy-in-motion",
@@ -930,7 +930,7 @@ window.RESEARCH_CENTER = {
       "period": "2025–2026",
       "summary": "汇集家庭设备协作、家庭隐私、动态隐私管理三项研究，并连接 SafeSync 设计原型，呈现从使用情境到交互策略的研究脉络。",
       "lead": "家庭中的智能系统同时连接人、设备和数据。我们从家庭成员如何共同使用设备出发，分析隐私如何被理解和协商，再把研究关注的问题转化为可体验的隐私控制设计。",
-      "cover": "assets/research-center/covers-20261117/privacy-in-motion.webp",
+      "cover": "assets/research-center/covers-v2-20261118/privacy-in-motion.webp",
       "symbol": "DESIGN",
       "color": "#cfcbff",
       "meta": [
@@ -1066,9 +1066,9 @@ window.RESEARCH_CENTER = {
       ],
       "coverAlt": "家庭成员共同讨论摄像头隐私开关与设备设置 · AI 场景示意",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "50% 45%",
+      "coverPosition": "50% 48%",
       "directionId": "direction-home",
-      "detailCover": "assets/research-center/covers-20261117/privacy-in-motion.webp",
+      "detailCover": "assets/research-center/covers-v2-20261118/privacy-in-motion.webp",
       "detailCoverAlt": "家庭成员共同讨论摄像头隐私开关与设备设置 · AI 场景示意"
     },
     {
@@ -1083,7 +1083,7 @@ window.RESEARCH_CENTER = {
       "period": "2026",
       "summary": "识别概念意图与视觉实现脱节、低效交互带来的认知自主性削弱，以及生成不稳定导致的设计推进受阻。 为 AI 参与创意设计流程提供依据，支持设计师在共创中保留批判判断与过程控制。",
       "lead": "生成式 AI 能帮助设计师构建未来情境，但概念表达、交互效率与输出稳定性之间存在摩擦。",
-      "cover": "assets/research-center/covers-20261117/ai-co-speculation.webp",
+      "cover": "assets/research-center/covers-v2-20261118/ai-co-speculation.webp",
       "symbol": "CO / AI",
       "color": "#edd7ba",
       "meta": [
@@ -1177,12 +1177,12 @@ window.RESEARCH_CENTER = {
         "neurobridge"
       ],
       "direction": "人机共创与设计未来学",
-      "coverAlt": "设计者对照草图、生成图像与实体模型讨论方案 · AI 场景示意",
+      "coverAlt": "多位参与者的手围绕草图、泡沫模型和生成图像进行共创 · AI 场景示意",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "50% 45%",
+      "coverPosition": "50% 48%",
       "directionId": "direction-futures",
-      "detailCover": "assets/research-center/covers-20261117/ai-co-speculation.webp",
-      "detailCoverAlt": "设计者对照草图、生成图像与实体模型讨论方案 · AI 场景示意"
+      "detailCover": "assets/research-center/covers-v2-20261118/ai-co-speculation.webp",
+      "detailCoverAlt": "多位参与者的手围绕草图、泡沫模型和生成图像进行共创 · AI 场景示意"
     },
     {
       "id": "adhd-inclusive",
@@ -1196,7 +1196,7 @@ window.RESEARCH_CENTER = {
       "period": "2025",
       "summary": "整理 17 项核心用户需求，筛选 7 项优先设计特征。 展示如何把真实功能需求系统转化为设计优先级，减少以缺陷补偿为唯一目标的设计取向。",
       "lead": "现有辅助设计较多关注矫正儿童行为，研究将视角转向 ADHD 成人的日常功能、创意记录和社会参与需求。",
-      "cover": "assets/research-center/covers-20261117/adhd-inclusive.webp",
+      "cover": "assets/research-center/covers-v2-20261118/adhd-inclusive.webp",
       "symbol": "DESIGN",
       "color": "#d6d5e8",
       "meta": [
@@ -1291,12 +1291,12 @@ window.RESEARCH_CENTER = {
         "smartaste"
       ],
       "direction": "包容性服务与学习体验",
-      "coverAlt": "使用者借助可视计时器与任务卡安排日常工作 · AI 场景示意",
+      "coverAlt": "可视计时器、任务卡与木质活动标记组成的认知支持工具静物 · AI 场景示意",
       "coverCredit": "AI 场景示意",
       "coverPosition": "50% 48%",
       "directionId": "direction-inclusive",
-      "detailCover": "assets/research-center/covers-20261117/adhd-inclusive.webp",
-      "detailCoverAlt": "使用者借助可视计时器与任务卡安排日常工作 · AI 场景示意"
+      "detailCover": "assets/research-center/covers-v2-20261118/adhd-inclusive.webp",
+      "detailCoverAlt": "可视计时器、任务卡与木质活动标记组成的认知支持工具静物 · AI 场景示意"
     },
     {
       "id": "ar-science-books",
@@ -1310,7 +1310,7 @@ window.RESEARCH_CENTER = {
       "period": "2026",
       "summary": "将知识理解、语音叙述、模型交互与表达形式等用户需求映射为设计要素。 为 AR 科普绘本提供可追溯的需求到设计转化路径，帮助设计者平衡知识表达和互动体验。",
       "lead": "AR 能把抽象科学知识转化为可操作的空间内容，但如何从儿童真实需求系统推导设计策略仍需明确。",
-      "cover": "assets/research-center/covers-20261117/ar-science-books.webp",
+      "cover": "assets/research-center/covers-v2-20261118/ar-science-books.webp",
       "symbol": "DESIGN",
       "color": "#cfcbff",
       "meta": [
@@ -1396,12 +1396,12 @@ window.RESEARCH_CENTER = {
         "smartaste"
       ],
       "direction": "包容性服务与学习体验",
-      "coverAlt": "儿童与家长借助平板和实体绘本探索科普内容 · AI 场景示意",
+      "coverAlt": "家长与儿童借助平板探索实体绘本中的增强现实科普内容 · AI 场景示意",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "50% 44%",
+      "coverPosition": "50% 48%",
       "directionId": "direction-inclusive",
-      "detailCover": "assets/research-center/covers-20261117/ar-science-books.webp",
-      "detailCoverAlt": "儿童与家长借助平板和实体绘本探索科普内容 · AI 场景示意"
+      "detailCover": "assets/research-center/covers-v2-20261118/ar-science-books.webp",
+      "detailCoverAlt": "家长与儿童借助平板探索实体绘本中的增强现实科普内容 · AI 场景示意"
     },
     {
       "id": "peephole-wayfinding",
@@ -1415,7 +1415,7 @@ window.RESEARCH_CENTER = {
       "period": "2025",
       "summary": "结果表明地图表现效果随任务类型而变化，透明度、对象数量与工作负荷需要共同考虑。 为空间信息有限的小屏界面提供任务导向设计依据，避免用单一透明度方案覆盖所有寻路目标。",
       "lead": "移动屏幕难以同时呈现完整地图和局部细节。研究考察概览地图的透明度与对象数量如何影响动态窥孔界面的寻路表现。",
-      "cover": "assets/research-center/covers-20261117/peephole-wayfinding.webp",
+      "cover": "assets/research-center/covers-v2-20261118/peephole-wayfinding.webp",
       "symbol": "MAP",
       "color": "#d6e96a",
       "meta": [
@@ -1495,12 +1495,12 @@ window.RESEARCH_CENTER = {
         "project-05"
       ],
       "direction": "智能座舱与空间智能体互动研究",
-      "coverAlt": "使用者在校园路口对照手机地图判断方向 · AI 场景示意",
+      "coverAlt": "使用者手持小屏地图对照傍晚街道的第一人称局部视角 · AI 场景示意",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "50% 45%",
+      "coverPosition": "50% 48%",
       "directionId": "direction-mobility",
-      "detailCover": "assets/research-center/covers-20261117/peephole-wayfinding.webp",
-      "detailCoverAlt": "使用者在校园路口对照手机地图判断方向 · AI 场景示意"
+      "detailCover": "assets/research-center/covers-v2-20261118/peephole-wayfinding.webp",
+      "detailCoverAlt": "使用者手持小屏地图对照傍晚街道的第一人称局部视角 · AI 场景示意"
     },
     {
       "id": "family-cai-education",
@@ -1514,7 +1514,7 @@ window.RESEARCH_CENTER = {
       "period": "2026",
       "summary": "归纳个性化学习路径受阻、家校协作薄弱、AI 与家庭生态兼容不足及社会资源差异四类问题。 把教育 AI 的设计对象从单一学习界面扩大到家庭、学校与社会之间的协作关系。",
       "lead": "教育 AI 进入家庭后，其使用体验不仅取决于孩子与工具，也受家校协作、教育制度和社会文化环境影响。",
-      "cover": "assets/research-center/covers-20261117/family-cai-education.webp",
+      "cover": "assets/research-center/covers-v2-20261118/family-cai-education.webp",
       "symbol": "DESIGN",
       "color": "#c3d8da",
       "meta": [
@@ -1590,12 +1590,12 @@ window.RESEARCH_CENTER = {
         "smartaste"
       ],
       "direction": "包容性服务与学习体验",
-      "coverAlt": "家长与孩子共同讨论对话式学习工具和作业 · AI 场景示意",
+      "coverAlt": "父亲与女儿在家庭学习中共同讨论对话式教育工具 · AI 场景示意",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "50% 45%",
+      "coverPosition": "50% 48%",
       "directionId": "direction-inclusive",
-      "detailCover": "assets/research-center/covers-20261117/family-cai-education.webp",
-      "detailCoverAlt": "家长与孩子共同讨论对话式学习工具和作业 · AI 场景示意"
+      "detailCover": "assets/research-center/covers-v2-20261118/family-cai-education.webp",
+      "detailCoverAlt": "父亲与女儿在家庭学习中共同讨论对话式教育工具 · AI 场景示意"
     },
     {
       "id": "smartaste",
@@ -1609,7 +1609,7 @@ window.RESEARCH_CENTER = {
       "period": "2025",
       "summary": "构建个人饮食偏好、AI 点餐推荐与用餐反馈的用户端流程。 探索 AI 如何在个性化体验、运营协同与可持续餐饮之间建立联系。",
       "lead": "年轻职场人对健康、口味、效率和社交体验的需求并不一致，传统食堂也面临供需匹配和食物浪费问题。",
-      "cover": "assets/research-center/covers-20261117/smartaste.webp",
+      "cover": "assets/research-center/covers-v2-20261118/smartaste.webp",
       "symbol": "DESIGN",
       "color": "#d6d5e8",
       "meta": [
@@ -1686,12 +1686,12 @@ window.RESEARCH_CENTER = {
         "family-cai-education"
       ],
       "direction": "包容性服务与学习体验",
-      "coverAlt": "职场用餐者通过手机点餐并接取餐食 · AI 场景示意",
+      "coverAlt": "俯拍的餐食、餐具与个性化点餐手机界面静物 · AI 场景示意",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "50% 43%",
+      "coverPosition": "50% 48%",
       "directionId": "direction-inclusive",
-      "detailCover": "assets/research-center/covers-20261117/smartaste.webp",
-      "detailCoverAlt": "职场用餐者通过手机点餐并接取餐食 · AI 场景示意"
+      "detailCover": "assets/research-center/covers-v2-20261118/smartaste.webp",
+      "detailCoverAlt": "俯拍的餐食、餐具与个性化点餐手机界面静物 · AI 场景示意"
     },
     {
       "id": "bizika",
@@ -1705,7 +1705,7 @@ window.RESEARCH_CENTER = {
       "period": "2026",
       "summary": "完成具有 S 形扭转与镂空结构的音箱概念，将金属与织物组织为同一产品语言。 探索非遗文化在高频使用的生活产品中的当代表达，而不只停留在图案装饰层面。",
       "lead": "探索让传统织锦从展示性装饰进入日常使用场景，将西兰卡普的纹样、织造逻辑与声音媒介结合。",
-      "cover": "assets/research-center/covers-20261117/bizika.webp",
+      "cover": "assets/research-center/covers-v2-20261118/bizika.webp",
       "symbol": "DESIGN",
       "color": "#d6e96a",
       "meta": [
@@ -1792,12 +1792,12 @@ window.RESEARCH_CENTER = {
         "neurobridge"
       ],
       "direction": "人机共创与设计未来学",
-      "coverAlt": "使用者在家中体验西兰卡普织物与金属结合的艺术音箱 · AI 场景示意",
+      "coverAlt": "西兰卡普织物、镂空结构与金属扭转造型构成的艺术音箱特写 · AI 场景示意",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "52% 47%",
+      "coverPosition": "50% 48%",
       "directionId": "direction-futures",
-      "detailCover": "assets/research-center/covers-20261117/bizika.webp",
-      "detailCoverAlt": "使用者在家中体验西兰卡普织物与金属结合的艺术音箱 · AI 场景示意"
+      "detailCover": "assets/research-center/covers-v2-20261118/bizika.webp",
+      "detailCoverAlt": "西兰卡普织物、镂空结构与金属扭转造型构成的艺术音箱特写 · AI 场景示意"
     },
     {
       "id": "wudu-service",
@@ -1811,7 +1811,7 @@ window.RESEARCH_CENTER = {
       "period": "2026",
       "summary": "构建身份真实、回应明确与任务协作三项关系原则。 将数字互动与传承人知识、同伴协作和线下学习连接，强调文化内容的来源与持续校准。",
       "lead": "非遗乐器的数字体验常止于短时观看，难以连接制作、演奏和持续传习关系。",
-      "cover": "assets/research-center/covers-20261117/wudu-service.webp",
+      "cover": "assets/research-center/covers-v2-20261118/wudu-service.webp",
       "symbol": "DESIGN",
       "color": "#c3d8da",
       "meta": [
@@ -1895,9 +1895,9 @@ window.RESEARCH_CENTER = {
       "direction": "人机共创与设计未来学",
       "coverAlt": "老师与学习者围绕鱼形陶制呜嘟进行传习演示 · AI 场景示意",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "50% 42%",
+      "coverPosition": "50% 48%",
       "directionId": "direction-futures",
-      "detailCover": "assets/research-center/covers-20261117/wudu-service.webp",
+      "detailCover": "assets/research-center/covers-v2-20261118/wudu-service.webp",
       "detailCoverAlt": "老师与学习者围绕鱼形陶制呜嘟进行传习演示 · AI 场景示意"
     },
     {
@@ -1912,7 +1912,7 @@ window.RESEARCH_CENTER = {
       "period": "2025",
       "summary": "完成软体结构的初始模具、制作探索与概念展示。 把材料探索、制造过程与可穿戴体验结合，作为设计驱动机器人研究的实践案例。",
       "lead": "项目探索柔性材料和可穿戴形态在胸部健康监测情境中的体验可能性，关注舒适性与产品交互。",
-      "cover": "assets/research-center/covers-20261117/soma.webp",
+      "cover": "assets/research-center/covers-v2-20261118/soma.webp",
       "symbol": "DESIGN",
       "color": "#edd7ba",
       "meta": [
@@ -1989,12 +1989,12 @@ window.RESEARCH_CENTER = {
         "family-cai-education"
       ],
       "direction": "包容性服务与学习体验",
-      "coverAlt": "设计者操作带有气管与电路的柔性硅胶原型 · AI 场景示意",
+      "coverAlt": "手部测试柔性硅胶原型与透明气管的材料局部 · AI 场景示意",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "50% 44%",
+      "coverPosition": "50% 48%",
       "directionId": "direction-inclusive",
-      "detailCover": "assets/research-center/covers-20261117/soma.webp",
-      "detailCoverAlt": "设计者操作带有气管与电路的柔性硅胶原型 · AI 场景示意"
+      "detailCover": "assets/research-center/covers-v2-20261118/soma.webp",
+      "detailCoverAlt": "手部测试柔性硅胶原型与透明气管的材料局部 · AI 场景示意"
     },
     {
       "id": "neurobridge",
@@ -2008,7 +2008,7 @@ window.RESEARCH_CENTER = {
       "period": "2025",
       "summary": "完成知识输入型辅助设备概念与 NeuroBridge 未来服务品牌。 把“谁能跟上技术”转化为可见、可讨论的设计问题，促使公众反思被技术制造的新排斥。",
       "lead": "当社会工作与公共服务越来越依赖数字能力，无法跟上技术变化的人可能被进一步排除。项目构建一个需要购买知识以融入社会的未来情境。",
-      "cover": "assets/research-center/covers-20261117/neurobridge.webp",
+      "cover": "assets/research-center/covers-v2-20261118/neurobridge.webp",
       "symbol": "DESIGN",
       "color": "#d6d5e8",
       "meta": [
@@ -2095,12 +2095,12 @@ window.RESEARCH_CENTER = {
         "wudu-service"
       ],
       "direction": "人机共创与设计未来学",
-      "coverAlt": "使用者在设计工作室试戴外置耳挂式概念设备 · AI 场景示意",
+      "coverAlt": "外置耳挂式概念设备的未来产品分解视觉 · AI 场景示意",
       "coverCredit": "AI 场景示意",
-      "coverPosition": "48% 40%",
+      "coverPosition": "50% 48%",
       "directionId": "direction-futures",
-      "detailCover": "assets/research-center/covers-20261117/neurobridge.webp",
-      "detailCoverAlt": "使用者在设计工作室试戴外置耳挂式概念设备 · AI 场景示意"
+      "detailCover": "assets/research-center/covers-v2-20261118/neurobridge.webp",
+      "detailCoverAlt": "外置耳挂式概念设备的未来产品分解视觉 · AI 场景示意"
     },
     {
       "id": "more-than-human",
@@ -2114,7 +2114,7 @@ window.RESEARCH_CENTER = {
       "period": "2025",
       "summary": "完成分析人类行为如何影响犬类气味的研究图。 把动物的感知与社会性纳入产品设计，促使设计者反思以人类偏好主导的照护方式。",
       "lead": "人类对宠物清洁、香味和装饰的偏好可能改变犬类基于气味的交流。项目尝试从动物感知出发重新理解照护。",
-      "cover": "assets/research-center/covers-20261117/more-than-human.webp",
+      "cover": "assets/research-center/covers-v2-20261118/more-than-human.webp",
       "symbol": "DESIGN",
       "color": "#cfcbff",
       "meta": [
@@ -2191,12 +2191,12 @@ window.RESEARCH_CENTER = {
         "wudu-service"
       ],
       "direction": "人机共创与设计未来学",
-      "coverAlt": "照护者等待犬只自主嗅闻草木并观察其行为 · AI 场景示意",
+      "coverAlt": "犬只鼻部近距离嗅闻带有露水的草木与树皮 · AI 场景示意",
       "coverCredit": "AI 场景示意",
       "coverPosition": "50% 48%",
       "directionId": "direction-futures",
-      "detailCover": "assets/research-center/covers-20261117/more-than-human.webp",
-      "detailCoverAlt": "照护者等待犬只自主嗅闻草木并观察其行为 · AI 场景示意"
+      "detailCover": "assets/research-center/covers-v2-20261118/more-than-human.webp",
+      "detailCoverAlt": "犬只鼻部近距离嗅闻带有露水的草木与树皮 · AI 场景示意"
     },
     {
       "id": "agent-design-teaching",
@@ -2210,10 +2210,10 @@ window.RESEARCH_CENTER = {
       "period": "2026–2027",
       "summary": "将信任研究转化为4学时实验教学，连接设计变量、开发任务书、可运行原型与数据解释，探索设计师持续参与的人智交互教学方式。",
       "lead": "如何让设计学生把关于智能体的想法转化为可运行、可比较、可评价的交互？本项目围绕情感化个性化智能体，将研究方法组织成设计、原型、实验与迭代相连的教学活动。",
-      "cover": "assets/research-center/covers-20261117/agent-design-teaching.webp",
-      "detailCover": "assets/research-center/covers-20261117/agent-design-teaching.webp",
+      "cover": "assets/research-center/covers-v2-20261118/agent-design-teaching.webp",
+      "detailCover": "assets/research-center/covers-v2-20261118/agent-design-teaching.webp",
       "coverCredit": "AI 场景示意",
-      "coverAlt": "设计学生共同测试对话原型并记录交互体验 · AI 场景示意",
+      "coverAlt": "不同文化背景的设计学生协作测试对话式智能体原型 · AI 场景示意",
       "color": "#d8e969",
       "meta": [
         {
@@ -2305,8 +2305,8 @@ window.RESEARCH_CENTER = {
           ]
         }
       ],
-      "detailCoverAlt": "设计学生共同测试对话原型并记录交互体验 · AI 场景示意",
-      "coverPosition": "50% 42%"
+      "detailCoverAlt": "不同文化背景的设计学生协作测试对话式智能体原型 · AI 场景示意",
+      "coverPosition": "50% 48%"
     }
   ],
   "directions": [
@@ -2322,8 +2322,8 @@ window.RESEARCH_CENTER = {
         "情感交互",
         "信任校准"
       ],
-      "cover": "assets/research-center/covers-20261117/triadic-embodied-feedback.webp",
-      "coverAlt": "使用者通过表情与手势和屏幕中的虚拟智能体交流 · AI 场景示意",
+      "cover": "assets/research-center/covers-v2-20261118/triadic-embodied-feedback.webp",
+      "coverAlt": "虚拟面孔与表情、语音和节奏模块构成的多模态反馈概念图 · AI 场景示意",
       "coverCredit": "AI 场景示意",
       "color": "#cfcbff",
       "statusText": "重点研究方向",
@@ -2448,12 +2448,12 @@ window.RESEARCH_CENTER = {
           ]
         }
       ],
-      "detailCover": "assets/research-center/covers-20261117/triadic-embodied-feedback.webp",
+      "detailCover": "assets/research-center/covers-v2-20261118/triadic-embodied-feedback.webp",
       "aliases": [
         "direction-trust"
       ],
-      "detailCoverAlt": "使用者通过表情与手势和屏幕中的虚拟智能体交流 · AI 场景示意",
-      "coverPosition": "52% 44%"
+      "detailCoverAlt": "虚拟面孔与表情、语音和节奏模块构成的多模态反馈概念图 · AI 场景示意",
+      "coverPosition": "50% 48%"
     },
     {
       "id": "direction-mobility",
@@ -2463,7 +2463,7 @@ window.RESEARCH_CENTER = {
       "summary": "围绕驾驶智能体与用户情感，结合车载语音、空间能力和认知负荷研究，探索如何让座舱交互适应用户状态与道路任务。",
       "lead": "驾驶中的智能体既传递信息，也影响情绪体验。我们从三个相互关联的问题展开研究：具身呈现如何与用户情绪共同作用，语音信息量如何匹配任务负荷，小屏地图如何支持空间理解。",
       "symbol": "MOVE",
-      "cover": "assets/research-center/covers-20261117/driving-agent-emotion.webp",
+      "cover": "assets/research-center/covers-v2-20261118/driving-agent-emotion.webp",
       "keywords": [
         "驾驶智能体",
         "用户情绪",
@@ -2587,7 +2587,7 @@ window.RESEARCH_CENTER = {
         "project-05",
         "peephole-wayfinding"
       ],
-      "coverAlt": "驾驶模拟场景中的使用者与屏幕虚拟助手 · AI 场景示意",
+      "coverAlt": "银发使用者在驾驶模拟器中与具身车载助手互动 · AI 场景示意",
       "coverCredit": "AI 场景示意",
       "exploreGroups": [
         {
@@ -2604,9 +2604,9 @@ window.RESEARCH_CENTER = {
           ]
         }
       ],
-      "detailCover": "assets/research-center/covers-20261117/driving-agent-emotion.webp",
-      "detailCoverAlt": "驾驶模拟场景中的使用者与屏幕虚拟助手 · AI 场景示意",
-      "coverPosition": "52% 45%"
+      "detailCover": "assets/research-center/covers-v2-20261118/driving-agent-emotion.webp",
+      "detailCoverAlt": "银发使用者在驾驶模拟器中与具身车载助手互动 · AI 场景示意",
+      "coverPosition": "50% 48%"
     },
     {
       "id": "direction-home",
@@ -2616,7 +2616,7 @@ window.RESEARCH_CENTER = {
       "summary": "围绕家庭设备协作、隐私边界与日常策略的变化开展系列研究，并通过 SafeSync 原型探索隐私控制的交互方式。",
       "lead": "把家庭作为共同生活与协商的系统，研究隐私、设备协作和用户控制，并将研究发现转化为可体验的隐私管理设计。",
       "symbol": "HOME",
-      "cover": "assets/research-center/covers-20261117/privacy-in-motion.webp",
+      "cover": "assets/research-center/covers-v2-20261118/privacy-in-motion.webp",
       "keywords": [
         "AIoT",
         "隐私协商",
@@ -2681,9 +2681,9 @@ window.RESEARCH_CENTER = {
           ]
         }
       ],
-      "detailCover": "assets/research-center/covers-20261117/privacy-in-motion.webp",
+      "detailCover": "assets/research-center/covers-v2-20261118/privacy-in-motion.webp",
       "detailCoverAlt": "家庭成员共同讨论摄像头隐私开关与设备设置 · AI 场景示意",
-      "coverPosition": "50% 45%"
+      "coverPosition": "50% 48%"
     },
     {
       "id": "direction-inclusive",
@@ -2693,7 +2693,7 @@ window.RESEARCH_CENTER = {
       "summary": "关注不同认知特点、年龄与生活情境中的体验差异，从需求分析出发设计可理解、可参与的产品和服务。",
       "lead": "关注不同认知特点、年龄与生活情境中的体验差异，从需求分析出发设计可理解、可参与的产品和服务。",
       "symbol": "CARE",
-      "cover": "assets/research-center/covers-20261117/ar-science-books.webp",
+      "cover": "assets/research-center/covers-v2-20261118/ar-science-books.webp",
       "keywords": [
         "神经多样性",
         "教育 AI",
@@ -2827,7 +2827,7 @@ window.RESEARCH_CENTER = {
         "smartaste",
         "soma"
       ],
-      "coverAlt": "儿童与家长借助平板和实体绘本探索科普内容 · AI 场景示意",
+      "coverAlt": "家长与儿童借助平板探索实体绘本中的增强现实科普内容 · AI 场景示意",
       "coverCredit": "AI 场景示意",
       "exploreGroups": [
         {
@@ -2841,9 +2841,9 @@ window.RESEARCH_CENTER = {
           ]
         }
       ],
-      "detailCover": "assets/research-center/covers-20261117/ar-science-books.webp",
-      "detailCoverAlt": "儿童与家长借助平板和实体绘本探索科普内容 · AI 场景示意",
-      "coverPosition": "50% 44%"
+      "detailCover": "assets/research-center/covers-v2-20261118/ar-science-books.webp",
+      "detailCoverAlt": "家长与儿童借助平板探索实体绘本中的增强现实科普内容 · AI 场景示意",
+      "coverPosition": "50% 48%"
     },
     {
       "id": "direction-futures",
@@ -2853,7 +2853,7 @@ window.RESEARCH_CENTER = {
       "summary": "通过思辨设计、文化研究与教学方式探索，研究人如何参与技术未来的构想、制作与判断。",
       "lead": "以思辨设计、文化研究与产品原型探索技术在日常生活中的角色，关注设计者的判断、社会包容和多物种体验。",
       "symbol": "MAKE",
-      "cover": "assets/research-center/covers-20261117/ai-co-speculation.webp",
+      "cover": "assets/research-center/covers-v2-20261118/ai-co-speculation.webp",
       "keywords": [
         "人机共创",
         "设计未来学",
@@ -3003,7 +3003,7 @@ window.RESEARCH_CENTER = {
         "neurobridge",
         "more-than-human"
       ],
-      "coverAlt": "设计者对照草图、生成图像与实体模型讨论方案 · AI 场景示意",
+      "coverAlt": "多位参与者的手围绕草图、泡沫模型和生成图像进行共创 · AI 场景示意",
       "coverCredit": "AI 场景示意",
       "exploreGroups": [
         {
@@ -3018,9 +3018,9 @@ window.RESEARCH_CENTER = {
           ]
         }
       ],
-      "detailCover": "assets/research-center/covers-20261117/ai-co-speculation.webp",
-      "detailCoverAlt": "设计者对照草图、生成图像与实体模型讨论方案 · AI 场景示意",
-      "coverPosition": "50% 45%"
+      "detailCover": "assets/research-center/covers-v2-20261118/ai-co-speculation.webp",
+      "detailCoverAlt": "多位参与者的手围绕草图、泡沫模型和生成图像进行共创 · AI 场景示意",
+      "coverPosition": "50% 48%"
     }
   ],
   "aliases": {
@@ -3051,8 +3051,8 @@ window.RESEARCH_CENTER = {
         "情感交互",
         "信任校准"
       ],
-      "cover": "assets/research-center/covers-20261117/project-02.webp",
-      "coverAlt": "使用者与研究者一起调整虚拟陪伴者的个性化选项 · AI 场景示意",
+      "cover": "assets/research-center/covers-v2-20261118/project-02.webp",
+      "coverAlt": "手部通过平板调整智能体的外观与偏好 · AI 场景示意",
       "coverCredit": "AI 场景示意",
       "color": "#cfcbff",
       "statusText": "研究主题",
@@ -3140,9 +3140,9 @@ window.RESEARCH_CENTER = {
           ]
         }
       ],
-      "detailCover": "assets/research-center/covers-20261117/project-02.webp",
-      "detailCoverAlt": "使用者与研究者一起调整虚拟陪伴者的个性化选项 · AI 场景示意",
-      "coverPosition": "52% 46%"
+      "detailCover": "assets/research-center/covers-v2-20261118/project-02.webp",
+      "detailCoverAlt": "手部通过平板调整智能体的外观与偏好 · AI 场景示意",
+      "coverPosition": "50% 48%"
     },
     {
       "id": "voice-emotion-trust",
@@ -3156,8 +3156,8 @@ window.RESEARCH_CENTER = {
         "情感交互",
         "信任校准"
       ],
-      "cover": "assets/research-center/covers-20261117/project-01.webp",
-      "coverAlt": "使用者在日常生活中通过手机进行支持性对话 · AI 场景示意",
+      "cover": "assets/research-center/covers-v2-20261118/project-01.webp",
+      "coverAlt": "使用者在窗边聆听手机对话并进行情感交流 · AI 场景示意",
       "coverCredit": "AI 场景示意",
       "color": "#cfcbff",
       "statusText": "研究主题",
@@ -3275,9 +3275,9 @@ window.RESEARCH_CENTER = {
           ]
         }
       ],
-      "detailCover": "assets/research-center/covers-20261117/project-01.webp",
-      "detailCoverAlt": "使用者在日常生活中通过手机进行支持性对话 · AI 场景示意",
-      "coverPosition": "48% 45%"
+      "detailCover": "assets/research-center/covers-v2-20261118/project-01.webp",
+      "detailCoverAlt": "使用者在窗边聆听手机对话并进行情感交流 · AI 场景示意",
+      "coverPosition": "50% 48%"
     }
   ],
   "imageSizes": {
@@ -3668,6 +3668,82 @@ window.RESEARCH_CENTER = {
     "assets/research-center/covers-20261117/agent-design-teaching.webp": [
       1536,
       1024
+    ],
+    "assets/research-center/covers-v2-20261118/triadic-embodied-feedback.webp": [
+      1600,
+      900
+    ],
+    "assets/research-center/covers-v2-20261118/project-01.webp": [
+      1600,
+      900
+    ],
+    "assets/research-center/covers-v2-20261118/project-02.webp": [
+      1600,
+      900
+    ],
+    "assets/research-center/covers-v2-20261118/project-03.webp": [
+      1536,
+      1024
+    ],
+    "assets/research-center/covers-v2-20261118/driving-agent-emotion.webp": [
+      1600,
+      900
+    ],
+    "assets/research-center/covers-v2-20261118/project-05.webp": [
+      1600,
+      900
+    ],
+    "assets/research-center/covers-v2-20261118/privacy-in-motion.webp": [
+      1536,
+      1024
+    ],
+    "assets/research-center/covers-v2-20261118/ai-co-speculation.webp": [
+      1600,
+      900
+    ],
+    "assets/research-center/covers-v2-20261118/adhd-inclusive.webp": [
+      1600,
+      900
+    ],
+    "assets/research-center/covers-v2-20261118/ar-science-books.webp": [
+      1600,
+      900
+    ],
+    "assets/research-center/covers-v2-20261118/peephole-wayfinding.webp": [
+      1600,
+      900
+    ],
+    "assets/research-center/covers-v2-20261118/family-cai-education.webp": [
+      1600,
+      900
+    ],
+    "assets/research-center/covers-v2-20261118/smartaste.webp": [
+      1600,
+      900
+    ],
+    "assets/research-center/covers-v2-20261118/bizika.webp": [
+      1600,
+      900
+    ],
+    "assets/research-center/covers-v2-20261118/wudu-service.webp": [
+      1536,
+      1024
+    ],
+    "assets/research-center/covers-v2-20261118/soma.webp": [
+      1600,
+      900
+    ],
+    "assets/research-center/covers-v2-20261118/neurobridge.webp": [
+      1600,
+      900
+    ],
+    "assets/research-center/covers-v2-20261118/more-than-human.webp": [
+      1600,
+      900
+    ],
+    "assets/research-center/covers-v2-20261118/agent-design-teaching.webp": [
+      1600,
+      900
     ]
   },
   "news": [
